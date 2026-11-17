@@ -113,12 +113,22 @@ await step('quakes', quakes);
 await step('hazards', hazards);
 await step('topics', async () => {
   const res = [];
+  // GDELT throttles shared servers hard and its data is daily, so refresh only the 2 stalest topics per run.
+  const NEWS_PER_RUN = 2;
+  const age = q => Date.parse(prev.topics?.find(t => t.topic === q)?.newsFetchedAt || 0) || 0;
+  const newsNow = new Set([...WATCH].sort((a, b) => age(a) - age(b)).slice(0, NEWS_PER_RUN));
   for (const q of WATCH) {
     const old = prev.topics?.find(t => t.topic === q) || {};
     const row = { topic: q };
     try { Object.assign(row, await wiki(q) || {}); } catch (e) { log('wiki', q, e.message); for (const k of ['article', 'articleUrl', 'attNow', 'attUsual', 'attRatio', 'attSpark']) if (old[k] != null) row[k] = old[k]; }
-    try { Object.assign(row, await gdelt(q) || {}); } catch (e) { for (const k of ['newsNow', 'newsUsual', 'newsRatio', 'newsSpark', 'newsAsOf']) if (old[k] != null) row[k] = old[k]; row.newsStale = true; }
-    try { row.headlines = (await googleNews(q)).sort((a, b) => (b.date || '').localeCompare(a.date || '')).slice(0, 6); } catch (e) { row.headlines = old.headlines || []; }
+    const keepNews = () => { for (const k of ['newsNow', 'newsUsual', 'newsRatio', 'newsSpark', 'newsAsOf', 'newsFetchedAt']) if (old[k] != null) row[k] = old[k]; };
+    if (newsNow.has(q)) {
+      try { const g = await gdelt(q); if (g) Object.assign(row, g, { newsFetchedAt: new Date().toISOString() }); else keepNews(); }
+      catch (e) { keepNews(); }
+    } else keepNews();
+    row.newsStale = !row.newsFetchedAt || Date.now() - Date.parse(row.newsFetchedAt) > 24 * 3600e3;
+    try { const h = (await googleNews(q)).sort((a, b) => (b.date || '').localeCompare(a.date || '')).slice(0, 6); row.headlines = h.length ? h : (old.headlines || []); }
+    catch (e) { row.headlines = old.headlines || []; }
     row.spike = Math.max(row.newsRatio || 0, row.attRatio || 0) >= 2;
     res.push(row); await sleep(1500);
   }
