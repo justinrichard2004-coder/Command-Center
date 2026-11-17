@@ -1,0 +1,29 @@
+name: Refresh dashboard data
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}
+  push:
+    paths: ["watchlist.json", "scripts/**"]
+permissions:
+  contents: write
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Build data.json
+        run: node scripts/build.mjs
+      - name: Commit if changed
+        run: |
+          git config user.name "command-center-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/data.json
+          git diff --cached --quiet || (git commit -m "data refresh $(date -u +%FT%TZ)" && git pull --rebase && git push)
