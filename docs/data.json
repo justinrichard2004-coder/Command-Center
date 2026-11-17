@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T02:18:48.538Z",
+ "generatedAt": "2026-11-17T02:25:43.108Z",
  "status": {
   "markets": "ok",
   "world": "ok",
@@ -54,44 +54,44 @@
   {
    "symbol": "CL=F",
    "name": "WTI crude",
-   "price": 85.08,
-   "changePct": -0.75,
-   "time": "2026-11-17T02:08:46.000Z"
+   "price": 85.1,
+   "changePct": -0.72,
+   "time": "2026-11-17T02:15:43.000Z"
   },
   {
    "symbol": "BZ=F",
    "name": "Brent",
-   "price": 91.71,
-   "changePct": -4.31,
-   "time": "2026-11-17T02:08:11.000Z"
+   "price": 91.79,
+   "changePct": -4.23,
+   "time": "2026-11-17T02:14:12.000Z"
   },
   {
    "symbol": "GC=F",
    "name": "Gold",
-   "price": 3867.8,
-   "changePct": 0.38,
-   "time": "2026-11-17T02:08:26.000Z"
+   "price": 3869.3,
+   "changePct": 0.42,
+   "time": "2026-11-17T02:15:41.000Z"
   },
   {
    "symbol": "SI=F",
    "name": "Silver",
-   "price": 47.185,
-   "changePct": -3.76,
-   "time": "2026-11-17T02:08:50.000Z"
+   "price": 47.155,
+   "changePct": -3.83,
+   "time": "2026-11-17T02:15:42.000Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
-   "price": 64650.9,
-   "changePct": -1,
-   "time": "2026-11-17T02:18:46.000Z"
+   "price": 64500.25,
+   "changePct": -1.23,
+   "time": "2026-11-17T02:25:41.000Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
-   "price": 1819.01,
-   "changePct": -0.9,
-   "time": "2026-11-17T02:18:48.000Z"
+   "price": 1815.6,
+   "changePct": -1.08,
+   "time": "2026-11-17T02:25:46.000Z"
   }
  ],
  "world": [
@@ -356,6 +356,13 @@
    "place": "20 km NW of Anamizu, Japan",
    "time": "2026-11-16T04:24:11.718Z",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyhr",
+   "tsunami": false
+  },
+  {
+   "mag": 5,
+   "place": "137 km SSE of Kirakira, Solomon Islands",
+   "time": "2026-11-17T02:00:17.654Z",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyq5",
    "tsunami": false
   },
   {
@@ -728,7 +735,45 @@
     3.079
    ],
    "newsAsOf": "20261115",
-   "headlines": [],
+   "newsStale": true,
+   "headlines": [
+    {
+     "title": "Study estimates magnitude of US data center pollution as climate talks unveil clean AI pledge",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNjc1cHlfV0Yzc2NhTVBZUGwwb0k2UzA4SVJaWjM2cURBU3BfSFI2dmxrbXpzb19La2V0TEZqTVYyM1JXdUhzQThWWjhuclJRM1hWR3M3SjBlY1BZbnhQQmREVks2VmZmRENPR3k4S1EzdjBJSXp6TktKcjZ1ZWVQaG1QbDh0S3k5YXc?oc=5",
+     "source": "Tech Xplore",
+     "date": "2026-11-17T02:20:04.000Z"
+    },
+    {
+     "title": "Trump administration orders Commerce to close chip loophole at heart of Nvidia scandal",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeFlDQ0VJUFBIZS1nQTJUN281Z2JRbmJ4N3JFSEo2cDJYdlpXOWhIWkw4Mm95ZXZXWkQ1MjJGRnZCVkVKUWlVakVub2ZwU0dhVUJKeGtJclFVa2pMZFVMZjRmYUhTbFBZV1BGdENBdGkzMV9nZGRaUkhFcVJMYUtITkN3M0pwRFlsQmkxUXNIaEpPanZIRll1TVNXRFJpVzlDOTNLUTVaNDY1Ql9TVXdV?oc=5",
+     "source": "The Washington Post",
+     "date": "2026-11-17T02:09:30.000Z"
+    },
+    {
+     "title": "Can AI Be Controlled? President Peñalver, Cal Newport and Helen Toner on the Future of Digital Tech",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQa05veXhsYmFWR2hmbEc4VHJtbXZFQk9NQm8wNENOS1d2QW4xeklNNnNsc3JuRkYyNlJ3clozNVc1cUJaaXBwQ3k4RjI1UkZuTnNvaVpvVFllRHg2SFRTZU9fMnRRUzZtMVpfdGhSRXNDX2lRT3FhZHNXMFRCVWpSUk5wVWJZMUlKT3NLcjdXT1lYZzVTWTUyQllqZVNvOVdzX1VMNE9lWmk2TzJwMVZCZzdfdkMxTEZKSnpJUU5sSzYtMHJGTTVsblJ3?oc=5",
+     "source": "Georgetown University",
+     "date": "2026-11-17T01:51:06.000Z"
+    },
+    {
+     "title": "How are local libraries adapting to artificial intelligence?",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORnFMeFdwcFNpbUFxMWRpd2FudjdTclRfR1pfYzlXdkZzUm1EeHpMa3UzOTFNS3lSdV9qY3ZLVV9ZN011b1NfTk1QWkhoSjhLVVU1ZTE1bU5SVld5eUZVLUN4VHhsMTZFMEpBbk1XdjJ3ejR3SG1tUHVheV9nMXZ1QWNGWnZNMWdsTjlST2F2Z1IwbW1ZTTlGYnNmajV4TnExT2NCeGU4eWk?oc=5",
+     "source": "The Cavalier Daily",
+     "date": "2026-11-17T01:44:36.000Z"
+    },
+    {
+     "title": "California sues OpenAI as ‘ongoing public nuisance’ after artificial intelligence attacks",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT19XelpseVQycDJ6NVkwZFc5aGRKdlE0SUxBd3YxQmVnY3FxMXRmc1cydkJIN0hRTVdTV1dCdVN6Mml5MTdHVEJlSWFHRmFqaHJ2UVUwellJRTBNTWh0V1BDZGIyWUF1ZGJyY0xLcDlTanRNQlRoak5fNjhjcTJGS19qcng1anU2dEU3MFkxZEt2dDNEQnZtaHk2YnJqb0xpaWRVcUhRaDVYTkE?oc=5",
+     "source": "Washington Times",
+     "date": "2026-11-17T01:23:48.000Z"
+    },
+    {
+     "title": "UofM establishes AI Steering Committee to control usage of AI on campus",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vOXJ0OHcwUWVaT1RCMWZPRmROa2M5M1RsUHRKdnRPUDAwU3IyZzd4Y2dZUHJnMWZKdjBFYW9KQWk5aXFrQVZMV0xiM1hUVXB3NlN5N1FJUkd4amRYNmktVXgzVUNzSGtBT3E0?oc=5",
+     "source": "The Daily Helmsman",
+     "date": "2026-11-17T01:16:25.000Z"
+    }
+   ],
    "spike": false
   },
   {
@@ -757,16 +802,28 @@
    "newsStale": true,
    "headlines": [
     {
-     "title": "Commentary: Candidate is right that no party is above scrutiny — including his own",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU0VSQl9DUDA2WGRSMXREaEJTT0hpRTNMRF9UVDJfeDg4UkdvQ1Z3U3BGbGt0eUFRTWpUOThyb2FVNlZZeVFXVVhRVnNUWWJFNC11RGMxamRBSDJ5WjF3TzY3aXpNaVp2NjdGYW1menc1bVQ5UW5qaE13SXJ3QlN5MVM2ZHdjRi1hRVVoMDh3ZlpqQWIwemlzTk1vbExEVW42QkJEVG84cnNaOHhzUGkzWnlVbXI5QQ?oc=5",
-     "source": "South Dakota Searchlight",
-     "date": "2026-11-17T02:20:44.000Z"
+     "title": "Video How U.S. midterms and Israel’s election could shape future of Middle East policy",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT3hLSmtoT3pwOU5sY2xDSDMwSnA4Nzl5R2xWYVJLZWhscDJFaEVTdVNBZ3FXYUJucUg2c1BOZ204Sk40NG4zOWJrUnBpNE1abmpCOFNKdjhRVTJiamsxT2ZXdVhiSWFRWExYQUtJbTdZSzFHWjB3YkZ3NXJqUlk4TjJROEpKaW8tS29RdUIwZFNhQWlzQ1ZRaUVnLUNNN3RLSHd4akdB?oc=5",
+     "source": "ABC News - Breaking News, Latest News and Videos",
+     "date": "2026-11-17T02:27:33.000Z"
     },
     {
      "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBLWC1JUDhXX3lvaVA2bG1ncjBvb2h3dERIWmxIWkdlR0VJbEFrUV9UZk9LejgxdW4zdmlXc1BHTk9ITFliM2hWWEZBOGJWTDJQWi1YMWw4am56S2czRk1ZeUMtNVB3V25Zd2tDdDBCdU53cXNrM1NaX1FlNXZSdw?oc=5",
      "source": "The Jerusalem Post",
-     "date": "2026-11-17T02:15:19.000Z"
+     "date": "2026-11-17T02:24:39.000Z"
+    },
+    {
+     "title": "Oregonians make history with record voter turnout in a midterm election",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQWJ4Y0JDVFpsSmZTa3ZVZk41YUVPVkpFcmRaN3B2QjJzYjcweFp6akR1MFRpYVV4MWJYVTNrN2xiQ2lqaDlBUE04ME9fLW5LSml3U3dMRVFvZEVLQlk3ZHM3RS1YcVJUVG15dEZwcnRSUmpROTJkeHJlOWgyRmszT3dMU0ZBeFVLT3Q4bVhHYmcxZHhoOXo3UU1uUXFRZGxrMzBiLVVNUkwtZlQ3Q1FkeUVfX0ZrQ2ZJZFVId2p6eXhSTzY4dkd1enFRYWFsaG5TVllQMFNOcWxyWS12RXQ0amV2ZTNMY3JOZTc0WEZxVGh3cjBM?oc=5",
+     "source": "KGW",
+     "date": "2026-11-17T02:22:00.000Z"
+    },
+    {
+     "title": "Commentary: Candidate is right that no party is above scrutiny — including his own",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU0VSQl9DUDA2WGRSMXREaEJTT0hpRTNMRF9UVDJfeDg4UkdvQ1Z3U3BGbGt0eUFRTWpUOThyb2FVNlZZeVFXVVhRVnNUWWJFNC11RGMxamRBSDJ5WjF3TzY3aXpNaVp2NjdGYW1menc1bVQ5UW5qaE13SXJ3QlN5MVM2ZHdjRi1hRVVoMDh3ZlpqQWIwemlzTk1vbExEVW42QkJEVG84cnNaOHhzUGkzWnlVbXI5QQ?oc=5",
+     "source": "South Dakota Searchlight",
+     "date": "2026-11-17T02:20:44.000Z"
     },
     {
      "title": "More than half of South Carolina voters cast ballots early in 2026 general election",
@@ -779,18 +836,6 @@
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObEhnMkRRUWllQ2d2UjhCTTZ2cWlFTUVDX21mSkpYUzR3eUlmaUdyVXk2NnpLXzJWUTBpaFo2Tk5ra0JZR0hPak8wVVZ3UTVBX3RPU2E4b2c2THRPcVgxR1YtRHlBYXVNRTZRLURyaVktVUpCMzdWajY0TDdleWZJemFGdVdYYkY1R182NmJvd05VUjN6MmVydXB0c1l1eXRaS2F1WTZFRHpLbENmanfSAcIBQVVfeXFMTU1XNHJORXJXUVd3MmhXaGkxaXRIblhnZXFPZFZKODZPNkQ0VDluV0FTYXA5cVhFc3ZXOUh5OVI3S09kN0NCczRBMFkzUXlCZEkxZWNmNWhhVjNmNG8xMnVlbEpuMHZlTUxvM3Q0YzRxMzlKWFNlYzhFOHNpSDNuR04yNTFodjZoZy1yMTRnaFlmU1pfcXBWZ25yc0pXd1hjR3J5RWtrZVRYR0xYd3drdklZeHl2Qi1ZRTFQYmhrOXJrdUE?oc=5",
      "source": "Hawaii News Now",
      "date": "2026-11-17T01:53:00.000Z"
-    },
-    {
-     "title": "Democrats re-elect Jinkins as House speaker in WA Legislature",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd2Y0NzJSZ29FeUx2Z2tvdXNCaGE3MVRfMEE2UlZ0SFU0MlhLLUlzd0pnZnUzVFNLR2hvbllXTGxhLUlqZkNEcXJCeWVoWjZxeVZyZUhneHZrMS1KN3l2dzBiZFc2SkFSM3A1R1JJVmdIN1pHUU51TzJfLVF6LUJYeEVfTE9CUnh0RWM3TEVETzVfR2pSN3Zkd1dzMUZZOG8yYm4xVFNhOEg4UjJsd3c?oc=5",
-     "source": "Washington State Standard",
-     "date": "2026-11-17T01:41:08.000Z"
-    },
-    {
-     "title": "Updated 2026 Election results, Monday evening: Who’s ahead in Marion County, Keizer races",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWUl5QjYzZ1FoT2tDQ2ZXQzBwZGhHWExMZXJIU0RzTlpkUHpMOXhlS3dqSHg2c3V5c0tHTDVJSXVuSGR5SHZjWXBBUXgzMVlzcGt5R1NVelp5OHZuMHBlR1NUTEwtTEFwbHh1QWtlbWx5cmRXZVF3ci1XcmNSU09yZUVYZ0RUN3BtZVk1YmpTanVwSTZvZ1UxNU1sbVQxMVJRZmljMTBtaVgwd00xRUsteFFqcENmTUZEWWFlM3EwVjh6dk1ZM0E?oc=5",
-     "source": "Salem Reporter",
-     "date": "2026-11-17T01:37:03.000Z"
     }
    ],
    "spike": false
@@ -838,6 +883,7 @@
     0.165
    ],
    "newsAsOf": "20261115",
+   "newsStale": true,
    "headlines": [
     {
      "title": "CCTV Script 17/11/26",
@@ -870,10 +916,10 @@
      "date": "2026-11-17T02:00:00.000Z"
     },
     {
-     "title": "Oil slips on supply surplus outlook despite Gulf tensions",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNODZ0RmZZTkxFOG9xN3pRSkZDLVpST214ZFRzZXMxN1lCWWJhVUFmUFBVN05wV0pJUEtFV1VQbDVtd1pud2xfTnJsMXl4T2ttMkRwcGdURzlaRzV3UnhwMTlucHRkd2FRTXYtMUowU3NQUlNlbm9uSWs4ZTh4TXdJY3pDNXpyV0lnTTdEYWF5QjYxRVM4SzF6Zzl30gGfAUFVX3lxTE94ajRzRVJNZ21jd1Y1TG10LUVjckpEbWt5aHpkc1NOdjF5OWpwSHdsQkpCdElHRUlKVmRMd2RoQVRyX0w3NDlBSTBxcjgzbmhEa0Nyd180STdSMjZTZlpwUDVTcEhDdm9rMFVkYkdLVDlhbFNWbVZoUnNRYkpnWDRDaW9LLUZCLS01SC1sUnpIQXhhUU84a3JtWEdFU0dsdw?oc=5",
-     "source": "CNBC",
-     "date": "2026-11-17T01:43:00.000Z"
+     "title": "Canadian Dollar loses ground to US Dollar as oil prices decline amid Fed rate hike bets",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNjlGSDZpYmpYQ1Nqbjd2cDV3Z0phei1SRlRmemE1ZVVybjhYSEd4MjNZVGdzMmRna3FkT0paOWtyZzlQX3N0NDRsM0NNbmUzd3FYbUtOS1pNQkVLSzZIWmxnc2xPY05uZGhxazItWXFfLWxRNjhwd1IzVEh6Q1oyMDdhbGMyWi1vdjZsbV9ua2Q2ajdOZUt4a01JY3pKUzR2VUpQa0RGMXNGa2VUa3RZcWdTeXVYdWlCUGxscWNfRVZZSTVLLWhrWmhmQzdIUjdhaU1fUzVVMk1GdmRDRzFUVmw0c29QZ0Qw?oc=5",
+     "source": "www.tmgm.com",
+     "date": "2026-11-17T01:41:39.000Z"
     }
    ],
    "spike": false
