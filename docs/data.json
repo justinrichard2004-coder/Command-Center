@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T12:00:36.130Z",
+ "generatedAt": "2026-11-21T19:37:00.196Z",
  "status": {
   "markets": "ok",
   "world": "ok",
@@ -82,258 +82,258 @@
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
-   "price": 58120.61,
-   "changePct": -1.15,
-   "time": "2026-11-21T12:00:35.000Z"
+   "price": 60233.99,
+   "changePct": 2.44,
+   "time": "2026-11-21T19:37:00.000Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
-   "price": 1650.61,
-   "changePct": 1.93,
-   "time": "2026-11-21T12:00:37.000Z"
+   "price": 1683.3,
+   "changePct": 3.94,
+   "time": "2026-11-21T19:37:02.000Z"
   }
  ],
  "world": [
   {
-   "title": "Pakistan drop Rizwan and Masood, but back Babar and Agha in overhaul",
-   "url": "https://www.aljazeera.com/sports/2026/11/21/pakistan-drop-rizwan-and-masood-but-babar-and-agha-backed-in-overhaul?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-21T11:35:42.000Z"
-  },
-  {
-   "title": "Migrants caravan in Mexico walks towards US border",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/migrants-caravan-in-mexico-walks-towards-us-border?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-21T11:04:10.000Z"
-  },
-  {
-   "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
-   "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-21T11:02:49.000Z"
-  },
-  {
-   "title": "Deadly fire engulfs power station in southern Iraq",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/deadly-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-21T11:02:29.000Z"
-  },
-  {
-   "title": "'Accept cookies'? Russia collects data from swaths of unknowing Swedes",
-   "url": "https://www.france24.com/en/europe/20261121-accept-cookies-russia-collected-data-swaths-unknowing-swedes",
-   "source": "© Photo illustration Jenny Kane, AP",
-   "date": "2026-11-21T10:55:32.000Z"
-  },
-  {
-   "title": "Usman Khawaja and David Warner taken off air over Australia’s Sandpapergate",
-   "url": "https://www.aljazeera.com/sports/2026/11/21/usman-khawaja-and-david-warner-taken-off-air-over-australias-sandpapergate?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-21T10:54:22.000Z"
-  },
-  {
-   "title": "Demolition notices for buildings in Hebron provoke fear among Palestinians",
-   "url": "https://www.aljazeera.com/news/2026/11/21/demolition-notices-for-buildings-in-area-a-of-hebron-spark-fear-among-palestinians?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-21T10:38:13.000Z"
-  },
-  {
-   "title": "'Unacceptable': EU chief condemns alleged Russian plot to kill US-Ukrainian citizen",
-   "url": "https://www.france24.com/en/europe/20261121-unacceptable-eu-chief-condemns-alleged-russian-plot-to-kill-us-ukrainian-citizen",
-   "source": "© Yves Herman, Reuters",
-   "date": "2026-11-21T10:32:36.000Z"
-  },
-  {
-   "title": "Anthropic researcher uses AI to solve math's greatest riddle",
-   "url": "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-world-4025-rdf",
-   "source": "DW",
-   "date": "2026-11-21T10:29:00.000Z"
-  },
-  {
-   "title": "Cavaliers’ Harden passes Bryant, closes on Jordan in NBA 50-point game list",
-   "url": "https://www.aljazeera.com/sports/2026/11/21/cavaliers-james-harden-closes-on-michael-jordan-in-nba-50-point-game-list?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-21T10:27:23.000Z"
-  },
-  {
-   "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-   "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "date": "2026-11-21T10:26:36.000Z"
-  },
-  {
-   "title": "Nations agree to ‘elaborate’ on rules for AI-run ‘killer robots’ by 2028",
-   "url": "https://www.aljazeera.com/news/2026/11/21/nations-agree-to-draft-rules-for-killer-robots-at-arms-control-summit?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-21T10:25:29.000Z"
-  },
-  {
-   "title": "Was Vladimir Putin 'snubbed' by Xi Jinping? Viral handshake video is AI fake",
-   "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261121-was-vladimir-putin-snubbed-by-xi-jinping-viral-handshake-video-is-ai-fake",
-   "source": "France 24",
-   "date": "2026-11-21T10:16:44.000Z"
-  },
-  {
-   "title": "Verstappen escapes Vegas F1 discipline, takes pole as Antonelli penalised",
-   "url": "https://www.aljazeera.com/sports/2026/11/21/verstappen-escapes-las-vegas-discipline-takes-pole-as-antonelli-penalised?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-21T09:58:59.000Z"
-  },
-  {
    "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
    "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
    "source": "BBC",
-   "date": "2026-11-21T09:52:11.000Z"
+   "date": "2026-11-21T19:33:49.000Z"
   },
   {
-   "title": "Denmark accuses Russia of assassination plot, expels diplomat",
-   "url": "https://www.france24.com/en/denmark-accuses-russia-of-assassination-plot-expels-diplomat",
-   "source": "France 24",
-   "date": "2026-11-21T09:51:01.000Z"
-  },
-  {
-   "title": "Houthis launch strikes on Saudi Arabia",
-   "url": "https://www.france24.com/en/houthis-launch-strikes-on-saudi-arabia",
-   "source": "France 24",
-   "date": "2026-11-21T09:49:44.000Z"
-  },
-  {
-   "title": "Russian projectiles hit Poland as NATO tensions rise",
-   "url": "https://www.france24.com/en/russian-projectiles-hit-poland-as-nato-tensions-rise",
-   "source": "France 24",
-   "date": "2026-11-21T09:47:05.000Z"
-  },
-  {
-   "title": "Nations League: France to face Spain in quarter-finals, England to take on Norway",
-   "url": "https://www.france24.com/en/tv-shows/sports/20261121-nations-league-france-to-face-spain-in-quarter-finals-england-to-take-on-norway",
-   "source": "France 24",
-   "date": "2026-11-21T09:46:43.000Z"
-  },
-  {
-   "title": "EU, UK reach reset deal after Brexit",
-   "url": "https://www.france24.com/en/eu-uk-reach-reset-deal-after-brexit",
-   "source": "France 24",
-   "date": "2026-11-21T09:43:42.000Z"
-  },
-  {
-   "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-   "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+   "title": "Russia-bound ship attacked in Gulf of Finland",
+   "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
    "source": "BBC",
-   "date": "2026-11-21T09:40:55.000Z"
+   "date": "2026-11-21T19:20:22.000Z"
   },
   {
-   "title": "Sandpapergate: Cummins has Australia’s ‘unanimous support’ as Test captain",
-   "url": "https://www.aljazeera.com/sports/2026/11/21/cummins-wins-cricket-australias-unanimous-support-as-test-captain-sandpapergate?traffic_source=rss",
+   "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-11-21T09:38:29.000Z"
+   "date": "2026-11-21T18:42:38.000Z"
+  },
+  {
+   "title": "FBI national crime database suffers suspected breach: Reports",
+   "url": "https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-21T18:19:10.000Z"
+  },
+  {
+   "title": "Could Brexit be reversed?",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/11/21/could-brexit-be-reversed?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-21T18:18:11.000Z"
+  },
+  {
+   "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
+   "url": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
+   "source": "NPR",
+   "date": "2026-11-21T18:08:55.000Z"
+  },
+  {
+   "title": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-21T18:05:51.000Z"
+  },
+  {
+   "title": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
+   "url": "https://www.france24.com/en/drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
+   "source": "France 24",
+   "date": "2026-11-21T18:02:23.000Z"
+  },
+  {
+   "title": "UK police drag man from protest over ‘Pallet Sign Acton’ shirt",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-21T17:57:27.000Z"
+  },
+  {
+   "title": "Israeli strike hits food aid vehicle in Gaza, killing three",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-21T17:54:19.000Z"
+  },
+  {
+   "title": "Liverpool vs Manchester United: Premier League – teams, prediction, lineups",
+   "url": "https://www.aljazeera.com/sports/2026/11/21/liverpool-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-21T17:28:51.000Z"
+  },
+  {
+   "title": "COP31: Deep divisions persist over energy, finance and science",
+   "url": "https://www.france24.com/en/cop31-deep-divisions-persist-over-energy-finance-and-science",
+   "source": "France 24",
+   "date": "2026-11-21T17:26:47.000Z"
+  },
+  {
+   "title": "FBI criminal database hacked",
+   "url": "https://www.france24.com/en/fbi-criminal-database-hacked",
+   "source": "France 24",
+   "date": "2026-11-21T17:23:18.000Z"
+  },
+  {
+   "title": "Man convicted of starting palisades fire",
+   "url": "https://www.france24.com/en/man-convicted-of-starting-palisades-fire",
+   "source": "France 24",
+   "date": "2026-11-21T17:21:55.000Z"
+  },
+  {
+   "title": "Chelsea beaten 4-1 by Leeds to suffer third loss in four in Premier League",
+   "url": "https://www.aljazeera.com/sports/2026/11/21/chelsea-beaten-4-1-by-leeds-united-at-home-in-the-premier-league?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-21T17:21:37.000Z"
+  },
+  {
+   "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
+   "url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-21T17:20:03.000Z"
+  },
+  {
+   "title": "Russian helicopter suspected of violating Finnish airspace",
+   "url": "https://www.dw.com/en/russian-helicopter-suspected-of-violating-finnish-airspace/a-80010133?maca=en-rss-en-world-4025-rdf",
+   "source": "DW",
+   "date": "2026-11-21T17:08:00.000Z"
+  },
+  {
+   "title": "French police officers convicted of racist assault",
+   "url": "https://www.france24.com/en/tv-shows/a-week-in-france/20261121-french-police-officers-convicted-of-racist-assault",
+   "source": "France 24",
+   "date": "2026-11-21T16:41:49.000Z"
   },
   {
    "title": "FBI reportedly investigating apparent hack of its criminal database",
    "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
    "source": "BBC",
-   "date": "2026-11-21T09:34:20.000Z"
+   "date": "2026-11-21T16:35:15.000Z"
   },
   {
-   "title": "Iran says it downed US drones over Hormuz as bid to end war remains stalled",
-   "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss",
+   "title": "India’s opposition stages protests against Meta over account removals",
+   "url": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-11-21T09:30:24.000Z"
+   "date": "2026-11-21T16:14:01.000Z"
   },
   {
-   "title": "Fire sprinkler sprays water at flame-covered sign in China",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/fire-sprinkler-sprays-water-at-flame-covered-sign-in-china?traffic_source=rss",
+   "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
+   "url": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-11-21T09:20:40.000Z"
+   "date": "2026-11-21T16:03:16.000Z"
   },
   {
-   "title": "French police officers guilty of Michel Zecler assault: What happens now?",
-   "url": "https://www.aljazeera.com/news/2026/11/21/french-police-officers-guilty-of-michel-zecler-assault-what-happens-now?traffic_source=rss",
+   "title": "Endurance athlete swims in Hormuz Strait",
+   "url": "https://www.france24.com/en/endurance-athlete-swims-in-hormuz-strait",
+   "source": "France 24",
+   "date": "2026-11-21T16:02:59.000Z"
+  },
+  {
+   "title": "France: Demonstrations losing steam as movement enters sixth week",
+   "url": "https://www.france24.com/en/france-demonstrations-losing-steam-as-movement-enters-sixth-week",
+   "source": "France 24",
+   "date": "2026-11-21T16:00:03.000Z"
+  },
+  {
+   "title": "Countries race to secure Cop31 deal",
+   "url": "https://www.france24.com/en/countries-race-to-secure-cop31-deal",
+   "source": "France 24",
+   "date": "2026-11-21T15:52:00.000Z"
+  },
+  {
+   "title": "New day of protests across France",
+   "url": "https://www.france24.com/en/new-day-of-protests-across-france",
+   "source": "France 24",
+   "date": "2026-11-21T15:50:52.000Z"
+  },
+  {
+   "title": "US midterms 2026: What happens before the new Congress takes office?",
+   "url": "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-11-21T09:12:14.000Z"
+   "date": "2026-11-21T15:49:32.000Z"
   },
   {
-   "title": "Harry Kane to miss ‘a few months’ after injury as Bayern Munich draw",
-   "url": "https://www.aljazeera.com/sports/2026/11/21/ballon-dor-kane-to-miss-a-few-months-after-injury-as-bayern-munich-held?traffic_source=rss",
+   "title": "French presidential candidate blames media for racist attack",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-11-21T09:01:29.000Z"
+   "date": "2026-11-21T15:46:18.000Z"
   },
   {
-   "title": "Illicit alcohol kills 11, poisons 180 in northeast India’s Manipur state",
-   "url": "https://www.aljazeera.com/news/2026/11/21/suspected-toxic-alcohol-kills-at-least-11-people-in-northeast-india?traffic_source=rss",
+   "title": "EU and Indonesia sign trade deal",
+   "url": "https://www.dw.com/en/eu-and-indonesia-sign-trade-deal/a-80010099?maca=en-rss-en-world-4025-rdf",
+   "source": "DW",
+   "date": "2026-11-21T15:21:00.000Z"
+  },
+  {
+   "title": "Diallo present as Africa’s Motsepe reiterates support for FIFA’s Infantino",
+   "url": "https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-11-21T08:48:54.000Z"
+   "date": "2026-11-21T15:20:43.000Z"
   },
   {
-   "title": "Live: France braces for fresh protests as social unrest enters sixth week",
-   "url": "https://www.france24.com/en/france/20261121-live-france-braces-for-fresh-protests-as-social-unrest-enters-sixth-week",
-   "source": "© Sarah Meyssonnier, Reuters",
-   "date": "2026-11-21T08:29:53.000Z"
+   "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+   "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-21T15:01:18.000Z"
   },
   {
-   "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-   "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "date": "2026-11-21T08:10:25.000Z"
+   "title": "New EU budget proposal aims at tax gobal tech giants",
+   "url": "https://www.dw.com/en/new-eu-budget-proposal-aims-at-tax-gobal-tech-giants/a-80009255?maca=en-rss-en-world-4025-rdf",
+   "source": "DW",
+   "date": "2026-11-21T14:58:00.000Z"
   },
   {
-   "title": "Trafalgar Square Christmas tree felled in Norway",
-   "url": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "date": "2026-11-21T08:10:03.000Z"
+   "title": "Russia strikes Zelenskyy's hometown, killing 2",
+   "url": "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458?maca=en-rss-en-world-4025-rdf",
+   "source": "DW",
+   "date": "2026-11-21T14:44:00.000Z"
   },
   {
-   "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
-   "url": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
+   "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+   "url": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
    "source": "NPR",
-   "date": "2026-11-21T08:08:01.000Z"
+   "date": "2026-11-21T14:18:17.000Z"
   },
   {
-   "title": "Man convicted of arson over deadly 2025 Palisades fire in Los Angeles",
-   "url": "https://www.dw.com/en/man-convicted-of-arson-over-deadly-2025-palisades-fire-in-los-angeles/a-80007933?maca=en-rss-en-world-4025-rdf",
-   "source": "DW",
-   "date": "2026-11-21T07:10:00.000Z"
-  },
-  {
-   "title": "US Agriculture Department and FBI hit by cyberattacks, media report",
-   "url": "https://www.france24.com/en/americas/20261121-us-agriculture-department-fbi-hit-by-cyberattacks-media-report",
-   "source": "© Cliff Owen, AP",
-   "date": "2026-11-21T07:01:04.000Z"
-  },
-  {
-   "title": "Man convicted of starting Palisades fire in Los Angeles",
-   "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+   "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+   "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
    "source": "BBC",
-   "date": "2026-11-21T04:34:00.000Z"
+   "date": "2026-11-21T13:17:38.000Z"
   },
   {
-   "title": "Brazil ex-President Jair Bolsonaro taken to hospital over abdominal pain",
-   "url": "https://www.dw.com/en/brazil-ex-president-jair-bolsonaro-taken-to-hospital-over-abdominal-pain/a-80007648?maca=en-rss-en-world-4025-rdf",
-   "source": "DW",
-   "date": "2026-11-21T03:16:00.000Z"
-  },
-  {
-   "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
-   "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
+   "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+   "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
    "source": "BBC",
-   "date": "2026-11-21T00:01:39.000Z"
+   "date": "2026-11-21T13:15:21.000Z"
   },
   {
-   "title": "US declassifies more UFO footage filmed in the Middle East",
-   "url": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "date": "2026-11-20T23:15:20.000Z"
+   "title": "Cargo ship runs aground off French coast",
+   "url": "https://www.france24.com/en/cargo-ship-runs-aground-off-french-coast",
+   "source": "France 24",
+   "date": "2026-11-21T12:52:27.000Z"
   },
   {
-   "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
-   "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "date": "2026-11-20T23:08:57.000Z"
+   "title": "Russia tests NATO’s eastern defences",
+   "url": "https://www.france24.com/en/russia-tests-nato-s-eastern-defences",
+   "source": "France 24",
+   "date": "2026-11-21T12:50:35.000Z"
   },
   {
-   "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-   "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "date": "2026-11-20T22:42:47.000Z"
+   "title": "Thousands protest overs prices, education, military spending in France and Europe",
+   "url": "https://www.france24.com/en/thousands-protest-overs-prices-education-military-spending-in-france-and-europe",
+   "source": "France 24",
+   "date": "2026-11-21T12:48:46.000Z"
+  },
+  {
+   "title": "Military analyst Phillips O'Brien on Ukraine and Europe being left out of Trump's talks",
+   "url": "https://www.npr.org/2026/11/21/nx-s1-6047379/military-analyst-phillips-obrien-on-ukraine-and-europe-being-left-out-of-trumps-talks",
+   "source": "NPR",
+   "date": "2026-11-21T12:40:18.000Z"
+  },
+  {
+   "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+   "url": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
+   "source": "NPR",
+   "date": "2026-11-21T12:30:16.000Z"
   }
  ],
  "quakes": [
@@ -366,24 +366,17 @@
    "tsunami": false
   },
   {
-   "mag": 5.1,
-   "place": "32 km NE of Port-Olry, Vanuatu",
-   "time": "2026-11-20T17:53:15.442Z",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucd6",
-   "tsunami": false
-  },
-  {
-   "mag": 5.1,
-   "place": "15 km SSW of Balangonan, Philippines",
-   "time": "2026-11-20T13:09:04.057Z",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc96",
-   "tsunami": false
-  },
-  {
    "mag": 5,
    "place": "0 km NE of Carhuamayo, Peru",
    "time": "2026-11-21T05:12:04.898Z",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uchd",
+   "tsunami": false
+  },
+  {
+   "mag": 4.9,
+   "place": "88 km WNW of El Aguilar, Argentina",
+   "time": "2026-11-21T19:03:04.170Z",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucni",
    "tsunami": false
   },
   {
@@ -420,9 +413,56 @@
    "time": "2026-11-21T01:24:09.274Z",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucg8",
    "tsunami": false
+  },
+  {
+   "mag": 4.6,
+   "place": "68 km SSE of Tateyama, Japan",
+   "time": "2026-11-21T17:30:44.504Z",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucn8",
+   "tsunami": false
   }
  ],
  "hazards": [
+  {
+   "title": "Iceberg A76C",
+   "category": "Sea and Lake Ice",
+   "date": "2026-11-20T00:00:00Z"
+  },
+  {
+   "title": "Iceberg C39",
+   "category": "Sea and Lake Ice",
+   "date": "2026-11-20T00:00:00Z"
+  },
+  {
+   "title": "Iceberg D32",
+   "category": "Sea and Lake Ice",
+   "date": "2026-11-20T00:00:00Z"
+  },
+  {
+   "title": "Iceberg A81",
+   "category": "Sea and Lake Ice",
+   "date": "2026-11-20T00:00:00Z"
+  },
+  {
+   "title": "Iceberg D33B",
+   "category": "Sea and Lake Ice",
+   "date": "2026-11-20T00:00:00Z"
+  },
+  {
+   "title": "Iceberg A83",
+   "category": "Sea and Lake Ice",
+   "date": "2026-11-20T00:00:00Z"
+  },
+  {
+   "title": "Iceberg A84",
+   "category": "Sea and Lake Ice",
+   "date": "2026-11-20T00:00:00Z"
+  },
+  {
+   "title": "Iceberg A85",
+   "category": "Sea and Lake Ice",
+   "date": "2026-11-20T00:00:00Z"
+  },
   {
    "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
    "category": "Wildfires",
@@ -457,11 +497,6 @@
    "title": "Prescribed Fire Elk/Clark Piles RX, Coconino, Arizona",
    "category": "Wildfires",
    "date": "2026-11-16T09:06:00Z"
-  },
-  {
-   "title": "Tropical Cyclone Xavier",
-   "category": "Severe Storms",
-   "date": "2026-11-21T00:00:00Z"
   }
  ],
  "topics": [
@@ -512,40 +547,40 @@
    "newsStale": false,
    "headlines": [
     {
-     "title": "Thai PM warns of tariffs up to 50pc",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHUVRJMVZBRkNhUExYaGk5cVRKMk1fVHhfOVQySlAzWmZqcU9FYUdON2pGMkhIRW40SlhFMFdNN0Vibk1YRk13RUxBLXJZYTZLanZtcFRvV2dRckJzaVJWQWhMeWJRYThPQk1NdFBwcFU5bDJG?oc=5",
-     "source": "Borneo Bulletin",
-     "date": "2026-11-21T11:54:13.000Z"
+     "title": "Bangladesh's FTA push",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UanBPZlhhZGZNa1NhcjA5UVJKNjVaV0pycHYwYWJmZ3ExcEs3S0sxTUhzdkNuSFp3VFlSZ2RhMG9HTHl1UjZGMnU3TEhWdkdyWFRTdlJlRDhsdEhyYm5lbWpVUEJsM05ZcGJSLTQzemxwajlyVjA0dw?oc=5",
+     "source": "The Financial Express",
+     "date": "2026-11-21T18:17:35.000Z"
     },
     {
-     "title": "Rick Perkins: Canada chooses to be ‘on the menu’",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WbG5pNlZHcUVSWFp0QXVNTEV6UHNpdGpRbFRuSWZsbzVNMHNvY2E3VGdQajNZMU5pM1FiaEJCX2Z0UnlacE5WLVZjLWI3UnpnZ0Q2Umt6c2tfdDJKWHpiQU5jdDdKcktTaThVdWRwZ0ZRdnBUcnFvSGpnX2RyUQ?oc=5",
-     "source": "Yahoo News Canada",
-     "date": "2026-11-21T11:00:00.000Z"
+     "title": "Average price of a Thanksgiving dinner on the rise amid tariffs, Iran conflict",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tM3Z4M0lnXzFVTTFybDVKQWhYcWRZZUFOWXJTbnpxUUN2TjZoMVBlTmJLTXJhMUNPRFU1YVgyLVlYWVM1c2tSMGVVaVRjWTBGMUV0ODdnVF8xUnd4OE1fVVJERmpKZ9IBa0FVX3lxTE1qckpZWk1JNE5JNXlWR2hEQkhzUGN4V2dOcU9GdVRMbHM1d0diUkdaWW5VSHZqM3Q2UVQtZWhLdFZvSjgteldXLVZqMVJYNTRfNm9GRXEyRkdtdTJSZTlEN3RzdVV5Wm5jM1Bn?oc=5",
+     "source": "FOX 13 Seattle",
+     "date": "2026-11-21T17:31:02.000Z"
     },
     {
-     "title": "Trump Advisor Steven Paul Hopes U.S. Tax Credit Will Be ‘Active’ in January, Tariffs Are Old News: ‘Now It’s All Hands on Deck Federal Credit’",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOV9seUJkb2t6UTdqUjJVYlB5aVk3N0lwbzB4VjFTYWNKRFhMY3hKWVhZRDFxZjJqR016UUotQm9wSjNEcVZ6dERfcXFQX005ZnRNTkpSa2tVZlhlVDRMSkFqTzZlVkNqYW1sUXcwY2lBRjFqb1Z2MjktbUppY01zcFhHbTRycUVWSmJ6MlhLd0xuQldfMnJWaTk4N2Z0cEM4bXZj?oc=5",
-     "source": "Variety",
-     "date": "2026-11-21T10:29:00.000Z"
+     "title": "Carney’s tariff promises set higher than U.S. politics allow",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSXBmT1VwWUZaNlV1SE8wZS0yTWlRMnhqWGMyT0VDMnNVNk02RnpFeENobEdNdll0N0RRYmdNd1pqamRqNF95UlFrSXpuVUlrTDNFZjJzRHBVSnNGVXQ3V0cxVHF4aU9KOTRFNGJpc3ZfVlhsYjBTOHg3Y3pLeEdaa1RxZHg5Ykt4WWY3UDJtUWJ6M1VkVlA2bzdqTnhfODMwX05JVTVPVGZJY0FaVlRaUmNLMDVjSFBwQnRfMTgtYnRUWHo0RFZOYmg5YnNWQlQtME9sallmSm9JSzFGZGk0SjNUZ3ZFUQ?oc=5",
+     "source": "Winnipeg Sun",
+     "date": "2026-11-21T17:17:33.000Z"
     },
     {
-     "title": "Canadian timber turns to Asian markets as U.S. tariffs bite",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRFFCakV0NEdvRXhTcDhlYVpNYnVQU3lLVnRYbFRSb0xLNVg0YWI3WkxlSS13SHZJR2RqTm9mNnFjRFRVdTdqLUxUSlhpa3lScEhfbDN3ekdrdzNNeGxBRzgxM3IzSW5OSW1XUUNlbDd2Z1M2TThXZ05IaUl0WVd1WGlnb1EtYjBvN3NiQmVVUWU2NGJRUWRVeG5lQWlJMDdjaS1NUU5DdThuVmY3RENN?oc=5",
-     "source": "巴士的報",
-     "date": "2026-11-21T10:12:00.000Z"
+     "title": "EU and Indonesia sign free trade agreement covering 98.5% of tariff lines",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa2NUdTM4eUU1dnkxNjdoWWxLUkpraEI0SnVLa2MyNDUyQmxlZTd2LWtuT0hUYkYxMGNhSm9qaFp6X2dwZVozT21fTm9GSHljekhzOTQ1OENhUDNmdVFHc2QwR3h1YTJONHAyY3BsclNzVW9CMTgwZFB6QjZLQ3daODNyV25sNEdLX0VjVTdxQ1pKenVxdDNpUkdDOEdtcThkRFdIVDBlUzYwbHRw?oc=5",
+     "source": "УкрАгроКонсалт",
+     "date": "2026-11-21T17:08:48.000Z"
     },
     {
-     "title": "Korea Aluminium's US tariff dispute puts Base Group's $150m Trump-linked deal under scrutiny",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZFV4X1pxZG0xcFN4YmpmYmV0ejRETUFCSGRWX04yTVh2Ukx6Tzc0dU4zaFphcUdiWUg0d09MS2Z1MEJEXzB3NzdKdVhvWE1YTFFQbjhWY09ZbF9lQXdIR1VVSnc0VFNrb05QRU5ySDdXMlpQNHJnM0tadXI4Qll1VnZ2UmJSd1lYYy1TVUR3cnJ4LWkxaTNMaGp1RnpFWFZxRGt0VHJhRXBSeWx4SnlKSWh4TEM3aXg1X3JEcFRoeVd2WEY1dDQ4?oc=5",
-     "source": "AL Circle",
-     "date": "2026-11-21T08:37:30.000Z"
+     "title": "EU, Indonesia sign trade agreements after decade of talks",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbWZYYmt0blFyZjFSTUZzNmdnMGU0bTAxT25VQkNUSDlhV3BkM2dIUk52UDlQY2pFeGtLMm5oc1JVcXVYNmxMWEVwVjBsZW5tT2l6bHJqSlZTS1g5VVBVcTVtd09UVFNKVGJRR0JkT1pfZEN2S3ZZbUpVT082SS1qZWtleWFsd1FwMlhpYjhhQ3FmQjIzT0x0dm9YclJrUmPSAaQBQVVfeXFMTThBZUYxUGRvYldySjV0WlN4Z0JaLS1VTlU4YkRzY2l0NThpU2xhcVh0cVI0RlRfS1Zacnh5ZXRtd1d0QUJkT2VrcTE4cTQzYk5ka0NhRlQwWEhudWphN3F0XzBGeVhjbk1oUW5aM2RwZUFRY2pqZFRfd2JLeXVJZzJrTWVBbjJrQWZsNFZJWTJZZk91b3dHbDJKWnJreG41eE9mdC0?oc=5",
+     "source": "A News",
+     "date": "2026-11-21T17:04:07.000Z"
     },
     {
-     "title": "TJMaxx’s parent company is spending one-third of its $463 million in tariff refunds on bonuses",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU01fRGxrLVdyVnVtem5YZ0hjbkM5QzJVUmJmcElyaEhBQ1lDQ2t1VjQwUldfcnI5S0VoZGFIUTc2NE00ekpCMUNLenYtNV9ITzJwbEtXb0hpTHdwWjdpaUhyLVNxemc0QmZRd1V3aXI3V05sUW5zOUZ4M2FKUVo0dGZiR1dqNVFCSEZpaUdMbi1QNnl4U290MG5MY3RVQkdTeERkOA?oc=5",
-     "source": "Fortune",
-     "date": "2026-11-21T08:00:00.000Z"
+     "title": "The EU and Indonesia have signed a trade agreement and an investment protection agreement after ten years of negotiations",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT0IwM0RSMGhTUEZBbUVBc29wWHlabnVabE5WT0w1bm4weWxWRDNBWXNWbEl5NEJRbWZuczRKajRtcDlKNzNCaDA4dTFhUEEyZmNTbE5XQUNaOEluZHczeEJJZTFjT202eTBlaHltWWY0RTlZeVVreFdUNUtjc3dkaGtNbHZCcEZoT3ItRklMY0RoMldhZG1HQzBSWmgxN2VlYUdV?oc=5",
+     "source": "Informat.ro",
+     "date": "2026-11-21T17:00:46.000Z"
     }
    ],
    "spike": false
@@ -597,40 +632,40 @@
    "newsStale": true,
    "headlines": [
     {
-     "title": "Iran's economy progressing, says Rouhani",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTldLUG9NOW9nQV93cXdEQzNyUWdLVmR5NkVtNVpIeGp3SGRDS2c2WXMzbE5qcVFUX2ZNNUJLQ0MyVVNOVTJCN29Hb0w1eTh5T0lCM2tCTHlQRnVkWWtucWxndDhuT2FjSlFBd1h3SnNfS2VZXzRUN2RfSmp2b0VMQ0o5dw?oc=5",
-     "source": "Yeni Safak English",
-     "date": "2026-11-21T03:27:44.000Z"
+     "title": "Italian Arbitration Day 2026: Arbitration in the Age of Economic and Legal Disruption of Tariffs, Sanctions and Global Uncertainty",
+     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPbmlSYzdHUUpiTVRTLVVQWDg3aHZjNGF5ZklieS12NHhXZmc5djJaek9Eei00YWhHa2xNOFRyUUpmbXlrSldzWWxOV3NvVFJscHhRdE00RDhxZ2lwamNmU25zUGVNT0tCdVBnRUxhRWEwQTVmTkxIbVdqajRPZUhqVDFzOHpJazdoM002Q3h3R2NXY3JTYnM3aU1sMjRickVuOE9BVEtwX2hROHJrRHl1QnhBYXptTV82OVFpVUI1ZmhMNGl0a1hSSUUwZWNPeU9BSklXQzkzZnMxMzlCRU82NVNDUVlMLWtQbzd4c0tPbjk5UHk4cEV2ZGkzT0tjVzhUTUdNaUQ1REdMUkhXaWpPNw?oc=5",
+     "source": "Wolters Kluwer",
+     "date": "2026-11-21T17:55:43.000Z"
     },
     {
-     "title": "Trump claims ‘total control’ of Strait of Hormuz as Iran sets terms for reopening it",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ2Z2dHM0LXBWWndBYnU1MFFIZERWZl9vZUhScHZTQ3dtMExHRWQ5ZEtvVkxJaVE4UVVBbjhqMmNFeFZyV0l6cUlER2hDQUx6UWcwVlg4NjN6dndKcXVPN2tyRG9CU3hDZ2poU3MwT1Q1dy0weTJOcGp1LTNvSWVxUXlDclJVaHFQd2FNcVc5ZkNFOXFuOHFUeXAzRkZkclFaX3FURk9GNGZPSG9VZ3pTdUQySXRfY0U?oc=5",
-     "source": "Open Magazine",
-     "date": "2026-11-21T03:07:42.000Z"
+     "title": "Russia's Wildberries CEO steps down days after EU sanctions, medi",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdnV5WXdYM1drT1JDekZXYVVNX052bVV3SkRyWlNOWHFST2liU1BUOTFIeEI3ZDNXM1Z4cnltSDRpdFRpQldiNm0yQk5MVGhBMlFOaHR0a0Q5RklsdUdmeHlFVENfY3JFNC12a21pTFdGZWM3Wmo0Z1RmczJOdk5IZWp2RmxCYl9FbFZldHlMUkJURXFJWllCNEtlRGg4a2h6?oc=5",
+     "source": "Global Banking & Finance Review",
+     "date": "2026-11-21T16:24:29.000Z"
     },
     {
-     "title": "U.S. sanctions alleged Canadian faction of Italian mafia",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTU9pT2pPaFpMdjdINGhlWWdPcXlJQm1sVHpjcDhqLTZ1VEtzLTRDTzUtU05WNVdkX1VWRHlzenBubTg2Y2FUY0FWS1NJdVlQcjhlNEdISTRubnBZbmM4Wlo3b3Z4MlFMd1dvZXQ2ME1nMFd6emNyRnBDMEdOcVhVd19RN2tLLVJQZ3pUSC1jbGdmZ0pXcTZrUU9HWC1IbFRsNnF1YUxMY0xENE4yZWs0?oc=5",
-     "source": "The Globe and Mail",
-     "date": "2026-11-21T02:13:36.000Z"
+     "title": "Xi, Putin blast Western ‘protectionism’, sanctions before meeting Trump at APEC",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQakJQdHRHbGZoTEZjd2t5YTZHWmRWRXRlN3J3elMwQlYxRWNnVWpxU2VuWkphN3U0VVUxM1Jwcmo5RGs5azhYYnBMMWI1R2x5b2FUa3didTBTZmdBV2x3ZXRGTjY0Sk4wLWtTakVaUGJWNjg4NGtxcWU4aVg4VE1wTmRTcGo3ekE?oc=5",
+     "source": "DD News",
+     "date": "2026-11-21T15:56:27.000Z"
     },
     {
-     "title": "Rights groups urge sanctions after ICJ finds Myanmar guilty of genocide against Rohingya",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeHFRd2lyTUVtY3UtZ0o0MUtLNF9BTEtPd0R5NFJiT3JMUDhTRm1QMWlLa2oyaHJ1ZTBuZmtLTnAzdmEzd1ExR2ZRNFliQ3AzUWczTktZME8xTTZ1Uy1LYjR3bnVGVXRnZ3N6XzZjb0QzSUhndVBuNmx3bTRFWVR2cWhTUVBwZVNrM0RTMXlGT3JiS3BtcnUwQ0YtU3VxMndTU2FuZDlEZHFVTGd6TXBoY0pzQ0xndHZnSFItTF92T0c?oc=5",
-     "source": "PBS",
-     "date": "2026-11-21T00:28:54.000Z"
+     "title": "Iran warns it will act to break US economic blockade amid Gulf tensions",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd1NOcGpXNkxPMG4ta1dYZ1RtWTZ2NVNBRmJjLXhYQzZ2bVk4R3NTVHVWQklMYmZjNDZtbXRSTGUtaUhrUmY1M2N5MVV3ekF2TEFHZ3g0ejllbTB1QVlXak1XN0l6WFVFNEZkdkF0WHdLMl9pM3FIcFFkOWRHelFCVkRINkZjWFRUbkpLZFBYTzV0Z1FHUVpmNkFpTjNDczBQMzMtLXkyVDZWUVA5TWRUSlpTSjkxaXhRNEkwWkh3d1ZXVm1P?oc=5",
+     "source": "Business Upturn",
+     "date": "2026-11-21T15:43:47.000Z"
     },
     {
-     "title": "Who is Mohammad Javad Bavand, the ex-IRGC official sanctioned by US?",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jVEhuQ1pqdWtIUkdqUzFEUFJuRGVDd2JSV2QyTENSaEdXc21KY19IVUtTVkNOdlliOWRmVVBCejI1OGJPakEtY0hMNkdTeFd4eUE?oc=5",
-     "source": "Iran International",
-     "date": "2026-11-21T00:10:21.000Z"
+     "title": "US imposes fresh sanctions on Iranian oil traders and facilitators",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMHhucF9GSURWdkllbjR0eE5XZEZWWmNYcjBYSHVMdF9ZZTFYWlpyaEFKM0tudDlzQnJnN2VuWS1NbkxuSUtlcTgyNGVjQnQxSU5pd09remJRTHQ5OS05eU5VS3ZHeHJtRmFiYjhqX1hUTEVIdXRjMkRSZ2JsdFRFbHZJaEtmSWx5aVBHTnc4RVlDMFczZndhaWZlYw?oc=5",
+     "source": "24NewsHD",
+     "date": "2026-11-21T15:36:00.000Z"
     },
     {
-     "title": "​Washington Imposes Sanctions on DKBA Commanders Tied to Human Trafficking Scams",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaGlmcjUwTHFJeGVtX2w4WFd2Nk9XbWt2aG0yUEJORGlFVUQ5Y0JfUkszQkk4NWJCSi1Ob0VRUzVIbkt2d21sYUJFNE9wcVN5elRJSFp5NmlKS3d1VXpSWEpHNGFocDFfbnNkZXJ2TTFtMlZxbDU1OEF2djlqUDVoY0ZWb0RJeW5TdC1FVFdKbU5zVmEtbDg1enNVVzl4WEk?oc=5",
-     "source": "The 420.in",
-     "date": "2026-11-20T23:28:15.000Z"
+     "title": "DW News. . DW Fact check looks at how pro-Iran networks are using AI-generated videos during the Iran war to shape online narratives, how these networks operate, and the signs that can help users identify them. #dwfactcheck",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeXFsSkUtMzNGSHJvWGRKaEplU3U4ODlkenowUVpJeEllUTl3YzVzRENBWVJvLUZqS1VRRmtkVlpmbDl4VWlpcDBZRWxXeXZoUGYzY2otY0FVQmhPU3pFRkNnMmhmVXRodHBLNVczSllscG5EcXZvLXkwSjV3TWtINU1CTDhTVHNoUm0zUEswVjk2VjVBenpsVk1CYzRneFVpeGhlX3FyeWNZbFZOeTdLaDFzRUhNYlcwQm5UUklMVFlhWEkyMVZKRnZhT0lsTjk4cFRfYUlEQlJHOUdIUi1oNVd3?oc=5",
+     "source": "Facebook",
+     "date": "2026-11-21T15:30:22.000Z"
     }
    ],
    "spike": true
@@ -679,43 +714,43 @@
    ],
    "newsAsOf": "20261120",
    "newsFetchedAt": "2026-11-20T16:55:18.345Z",
-   "newsStale": false,
+   "newsStale": true,
    "headlines": [
     {
-     "title": "Iran outlines capital market reforms to drive growth",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNjJGUnp1UGZMT0VhWkJOSktFeGNQelcwWFBOSW9MQ25MN2FJdXQ5X2JxR2IxdWJ5YjJydXhndEE1Umk2UGRYRkt6UGp5eVBYX1R4Q2ZwclBueHEwdENtbDBVMHVqcVVySTllZ1lnSkZkeU15cWItZnFRelN6eWJlOElMZzV6ak1QWXF1UGpQejVlTlFGU3Zn?oc=5",
-     "source": "Tehran Times",
-     "date": "2026-11-21T11:52:37.000Z"
+     "title": "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdkZKRW1BZDJ1X2RCT1hOVGN4SFN5NzBneU1VZFc2SEdEdnJJZTBlVGJzTDVoc1ltMWp1T2lCZHJtSGNOVEVnMzl4VlFKU0ZSVXp1M2pUejVlVTh6RHJZSGhodFhSQmNYeDRHZjlyLWNpX0xmcVJSaURYU2g4Y2FqbEg0RFJfakRsX3FWWUdwVmQza25vdTA0LTVmME4yVmEwUThRU0dZY1JOc2x6Z0VjbU1GSmF2OGhmc0FBT0lB?oc=5",
+     "source": "WSJ",
+     "date": "2026-11-21T19:22:22.000Z"
     },
     {
-     "title": "Governor warns Malta cannot keep relying on cheap credit and subsidies",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYWtfbXQtd1dUWDVDUGZkSG01eEdlLWxuajFwSnFIMWRnUmlzdnhtRUZkNEluUTlMdE4zbmlFaElGbnVzOHhCeklfWWp5UUpRWV9pcnBUSG9yQlBob29ybkktbmowX3VsUVJPNk1lSTJGaTVsUHprUzNvVnRnWFI3OUtURXd0Tm5LcVlackIzUEo3elR2a3NzYmtWdTg4aVRsLUlHVWhuRQ?oc=5",
-     "source": "Times of Malta",
-     "date": "2026-11-21T11:42:00.000Z"
+     "title": "Bosnian companies seek more credit but household loan demand falls",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMnhuN3lBZ2tHUV9vN29SQ0NTSE4xMnB2ZHIybWFUWDRNbU5DdVpTR0hHUVpvbmdBOEVRUld5TmJsTWFKT3F5SWlNSGV5dnJZeC1nMGFFM3MtUEFFWFlWcU5sMmJNbm1DelNzX3F0LXQxaWlFTWVqRVBRc0hmWXdwYjdGOVpXQnJsNEdjQmUweWFCNEs5TFotTzZ3WGhsclg0Q3hDTg?oc=5",
+     "source": "IntelliNews",
+     "date": "2026-11-21T18:28:52.000Z"
     },
     {
-     "title": "Sri Lanka plugs $50,000 import advance loophole as banks, Customs tighten checks",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX3l4Qmx0LVhUNFVzakFhUEJudWU5RU5vUXRrWmU0SjV3UWwtR2U4XzVyaWFIN0xCZy1qUE1SbW5DSTktUFJRNmdvTWJVc2lTUUpEa29zYlJYMVhCNzRLckttQ0FPRGFmZGxyaC0tZV82SFVQVk5RSGJ1RzFGYm11dlFxaWRESzdGT2tLb204bDI4Y2FrN2JfWGQ1SzBqZnNGWGNuYWpYRW81LXV3THc?oc=5",
-     "source": "EconomyNext",
-     "date": "2026-11-21T11:31:46.000Z"
+     "title": "British Bank Backed by Kushner’s Affinity Gets U.S. License",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUHViRUJDeHV2LWVBd2sybnFMY2RUVmR6Vm9zN0Vsa3JTVWlRR1p0dTR5cXRlRTZGSW01ZTlnbGFoRVZ2V1ZEOXJLTEVZSWxMSnAzZ3YzeVZGZ05YbXZQM0l0Q2pnaHRybnp6NEsxTVJleUo0QUQ1MlNkUXpnMXJqWHFqNzd2ZWstdmdCY2w3M2piNXpFelY0bmx5QWFhVzd3RkFqTTBoR041Q0xULWZHOTJwNVNzaU9wRmJVWjVqWmlHWWhUZGc?oc=5",
+     "source": "WSJ",
+     "date": "2026-11-21T18:22:32.000Z"
     },
     {
-     "title": "Trump Harshly Criticizes the Fed: “Interest Rates Are Too High, and the Fed Has Become Excessively Politicized”",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aQlhOSERDeTZDRTJNYmhxandFS3oxb2NnSDRBMkZDMDdSeTFLaUM3cXVDOTZSVEhQLWttVnZUcTJ2U2ZpN2dZSFBwRGJ6TWUydU83NHo2M08?oc=5",
-     "source": "Cryptonews.net",
-     "date": "2026-11-21T11:31:26.000Z"
+     "title": "Prime Bank holds annual risk conference",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQnRjeDF6RjIyaWp3dXBEd25TbklfeWdRVlRSMUstY254VTYwODBCRzNCV0RZd3YteEtMSnI2SzhnLVdlUmxJR3dHSUtOalNBWjRBQTdHam5rSXFDemg5T1lYeG42SmtTWnhvenZRT2YzQTZEc21aMUxob043NkloY0RGZ203QktOMlptVEVHMmg1UktHQ25vMGpkNkpZVzNsdUJvNjg0bXZxV0pZ?oc=5",
+     "source": "The Daily Star",
+     "date": "2026-11-21T18:12:41.000Z"
     },
     {
-     "title": "ECB seeks partners for tokenized deposits and securities tests",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8ybnhJN3h6T2xBcU1CNmUzOTNlZFc5SEhPeF85X2ZIYV90alZZZzgzN2xEc1V6OUJzWTlfT1VMcDltVEtFX2dfZk1ITTd2bTlqelB2OHV0ZUJnZXVmQ3A5TjVETmJlcWgxZy1YQ1RXaVVHOGhY?oc=5",
-     "source": "Crypto News",
-     "date": "2026-11-21T11:30:00.000Z"
+     "title": "Libya’s currency crisis is actually a sovereignty crisis",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMENxNXo1bnE2aEFKWlJzLVpPRTl3Ym5DakpSMWNrRGVwMkNWSzdmcm5NVGY5Qk1IRlExajhUemdTS3JrQU03czdqLVhqLW51ektQY0oxOWlpUF9vVVBjMVh6NW9Xc1hMOVFzQWVERm5pRHJBZWxKTVdpSUpWSkkwdFZXbnN5cU9vOUpsa1pyM3AyVy1rWGxIeGZTeFM?oc=5",
+     "source": "Arab News",
+     "date": "2026-11-21T18:11:59.000Z"
     },
     {
-     "title": "Sri Lanka central bank raises reserve ratio to 3-pct to absorb Rs150bn liquidity",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONVJVRjdlbVdCeFBQRXQ5V2pyTkpOdEs4cmZ6MjczN09IREprUmI4UmNxOHJRWER2Z2l4TFdiQ0RBQXNlakx3ek9NMUVhWVRRMzhDLXB6VmhwblFMa3pHUms1WU1lSFRnQnV1WlkxS1pIekZKc1BuTDFZanRIMzRnYThtMjBqcEFEMHVkTEgyWnlFWWJONUpiOXBDcDg2TG43TEtLY0dzNy1GcXhWYTdnOUt3?oc=5",
-     "source": "EconomyNext",
-     "date": "2026-11-21T11:16:08.000Z"
+     "title": "Zaidi orders banks to ease dollar access",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FQzdtYUdQU2VZZ1labnd1X1NBNFpYN3NvUWEwTE5NcEk0a2txU29hdC10aVVCd3Q4azhmVkJncURGVkZCNl96SlFjUQ?oc=5",
+     "source": "The New Region",
+     "date": "2026-11-21T18:03:37.000Z"
     }
    ],
    "spike": false
@@ -767,40 +802,40 @@
    "newsStale": true,
    "headlines": [
     {
-     "title": "America, China, and the Costs of the Bipolar AI Race",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZUxsX2V6UmtTT2R6Nnk3a1A3WVpxNkxYalhkZ1J1MHM1OG4xN2FGb1p5VVBSOHkzdWNyYk53VVRCQURLUTZ3STU0TFVid1kxeW5Jd1A4dDFCdmUyVTU2TFJrZENueWI5S0NzenhjWmpmWi1mdFFHbkM0a1NIUDRDZkxCZ0lMMnhfdlVuaXB0UXE?oc=5",
-     "source": "Time Magazine",
-     "date": "2026-11-21T12:00:07.000Z"
+     "title": "‘The doom of humanity’: will the quest to make robotic hands render us obsolete? | AI (artificial intelligence)",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmw5MEdUWFlVTW1fVFBSc3JyR0k2SXBBbjdiU0lJZnpDM25TNzNNRUxkU254Uk1tQ3UtUlo0alhWb2R1b2FkT0dKcWJaSWtuVkNNank5YTNvaFlkT1Rrb1FMRDcwWDhoYmpGX1RxT2Z0QXZtWGgtNjVqS0xtT0ZuVFlWaS1jT0FickRtSw?oc=5",
+     "source": "The Guardian",
+     "date": "2026-11-21T19:15:00.000Z"
     },
     {
-     "title": "Heterogeneous Provenance Graphs Enable Compliance by Construction in Artificial Intelligence Systems",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVWQ2SkxOeWpreVJRclVpOW5jR2FyWklkZmZ4eElLcm5pZ2VUWUlscmNSNm54czZ0cVFXTXUtRVc1dV9ZU1lxVmJHUUliLWJuRS1DQkNTdUUwTk9IYTNMOVhaSVhrOUFPSHVIaTJ6YUdPVEZBVkdicm1TY3NJWFBEbFdTX0xYdDFVanptOVVFQ3BFNXhEa0VfbHBFRmJxYl85Y0xwS3NUZHBTUzB5eHNsV2tDckIyb2Y5QTlzZWZrUzhiMFE?oc=5",
-     "source": "Bioengineer.org",
-     "date": "2026-11-21T11:57:46.000Z"
-    },
-    {
-     "title": "AI Is Still So Riddled With Errors That It's Erasing Any Productivity Gains That Would Make It Useful in the Workplace",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN2RhNFc5dTNVSW5hUGJ1Q01fVGwybmRMNmJ2aEJhTGN6LVpEeTcyeFFxY2pGU25vOTJDVnd4WE92cnJtdk5yc3JXc0VGV0ttTDZSNWRhSzVwZnZYeC1jMjJhRGMwaDZlV05Lamc4SnU2Rk41bmt1UmFVcFozVUswX25nbkw2YnlzTUN5YlVn?oc=5",
-     "source": "Futurism",
-     "date": "2026-11-21T11:51:00.000Z"
-    },
-    {
-     "title": "Google Commits $5M to IIT Kharagpur AI Research",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ3R6N1IwUGI3bWR1LVlGNE8wOUhqVDJJVDNPMTI0bGQzak0tLWZ1bzFfZlVSVHVxVUdldjF5QW84ZndiVkZ4YnRidTBFQ2tpVHZZdHItNkhwZkVuUWhZZVJJTDYwbWVIcWZqR1hpMTB4SVNCbWNMLU9IRFlEazhNbzQ4Q1NFb3ZmZjNrMlA1UQ?oc=5",
+     "title": "China Export Controls: Interim Tech Registration",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUHNabE1uMmtrRncxcGMzMHktcExuWlFPOUZpdVIwb01yZm84NmlrbThJbUt2MV9GTy1raXUxY3RTLWRVc1JyS2F3YXdvRnd1ejk4cmIwcDZtTEpubkFPYnphaGZscW9qOVRFSXdKSzg0VEpOMjUzUWk3Nm5rcTFCajAzTlNYb2dLdDBjYU92WnhoV25FVGhnTjU1a29UNF9BbmZybkxPQ2FJZnhv?oc=5",
      "source": "CASRAI",
-     "date": "2026-11-21T11:37:11.000Z"
+     "date": "2026-11-21T19:12:13.000Z"
     },
     {
-     "title": "If AI Chips Become Commoditized, Nvidia Has the Most to Lose, While These 3 Stocks Are Set to Gain",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcnRVU2FtckNYYW9xalcwdUNkUjJNTmxUdzRpdlVkbklJTklpUVNoTzNsR0NFaEtHd21TU1pybU45blU0VlUtU2NzOVVESjl6Y1F3M2hLVTVqZ2JFRjE2bGtjV1pDNC15djZic1hNWkV2UGdVUGdraUZGUXBmcnh4UDdYeUwxZnlKSWU4VlR6c2I2NjhFOGJKT01vYlhUX2dS?oc=5",
-     "source": "Yahoo Finance",
-     "date": "2026-11-21T11:35:02.000Z"
+     "title": "California colleges strike major AI deal as educators rage at machine learning: ‘Homogenized slop’",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0JQSGlpd0NTRlpvbko0QllyaElJUG5ud1F4aWdvSm8xVlZCenBLZ0pCWUY0Q2Jrd29WR2I1RUpxak1CYUdtS0xHdWJIVllGVC0zeUVreGwySlZ6Wnd4WXViTDkxX01aMXROYU9jdUdlTi1WTEgwZjhqM01aUHpLT1M3YWtISXNwZHhkRnVLVktxdkwxbmFmOUJzN2ZrdG5MOFdV?oc=5",
+     "source": "New York Post",
+     "date": "2026-11-21T19:01:00.000Z"
     },
     {
-     "title": "Column | Before you use AI to hunt Black Friday deals, keep 5 things in mind",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX2VmY3VVQjJPVDlqcVVpOEl0eVJzdGt2SUVlTktmUC1ITWR0eWJ0SV9oYkNtRHYzaGJaMF9TTWFBaEVTQkJhQV9yaElYU3FzOGt3TzV2dU5KazE2WklYbUJQQUFnVXdOUjlHOV9pXzlUekNyN1IteUFzQ2ZfZnBrUkVjZTBPeFJHUVpaVExoam52MzVQ?oc=5",
-     "source": "The Washington Post",
-     "date": "2026-11-21T11:32:56.000Z"
+     "title": "Can teams of AI agents recreate the chain reaction of human decisions?",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wOXI2UURFdDY0b1kyNnBEMjFkN3p5b1N4dWNXd2FRUUhJUXdrN3FBVUpRRkp6TjN0OWZocTZvRGljTmtuSTBMUVd2RVdUdDcwZi1hc2NlNjM0ZjlralNReUt3Ykc2OVN6SWJQNVZuS2xVaUdralp3SHhKbw?oc=5",
+     "source": "Tech Xplore",
+     "date": "2026-11-21T19:00:06.000Z"
+    },
+    {
+     "title": "Review Links Atomic Scale Characterization and Machine Learning to Materials Science Advances",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaTBaQU8xTkgwekJVMXJKRjhBNGJJTGlGSy0wQnpsazE5dm1Yejc0UnpJRDQtZG5LdHQ0clhGWDQ1VE5iSzJ2Mmw5STZ4YlVaZVlockcxaVZUSmRaQThEOTJkcVRwS2VzbEJ5MTJfcGM4WEdxXzVVcVJOZGx0WlZzdENfSkRzT0NwYlcwS0REWWVUUUZTZmNfYnBTNmVGNzNnQlhNTTlrY3RGOU1DWFFmTVZpNVE1eGxuUmc?oc=5",
+     "source": "Bioengineer.org",
+     "date": "2026-11-21T18:58:12.000Z"
+    },
+    {
+     "title": "Google warns about an autonomous cyberattack AI that has targeted French websites | Artificial Intelligence",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRmNFWC14N0d5TGVVc2pLVG1HeUZJOUZ5LU5zLW9WYkpfMnhzWE1wc0JqNUxFVGJXT1kyRjhPTWlVcUMzdlpjSmR4SVBUdE12WkEwb2tKV0E3MUFZUHNGU3Z1cUo5dnhoOTJRc0kzWFdacFRaTFVMX1hDNFU3WTdqelZMMEdxWXpYWDlsLVd0RDV2MHY1eHBNZlJXQm1iYkpqNDVxYlRvdGZxX1BFaHZQRGRqRDBHNnVWMGNDY2pSSThYY2poM0tmaFhvX1E1ekxKQWc?oc=5",
+     "source": "Capmad",
+     "date": "2026-11-21T18:51:17.000Z"
     }
    ],
    "spike": false
@@ -828,15 +863,10 @@
     311,
     412
    ],
-   "newsNow": 5.154,
-   "newsUsual": 6.912,
-   "newsRatio": 0.7457150842232988,
+   "newsNow": 4.656,
+   "newsUsual": 6.649,
+   "newsRatio": 0.7002685688957603,
    "newsSpark": [
-    11.407,
-    8.145,
-    19.459,
-    9.413,
-    8.129,
     7.163,
     6.552,
     6.854,
@@ -845,47 +875,52 @@
     6.076,
     4.661,
     5.416,
-    4.893
+    4.893,
+    4.43,
+    4.638,
+    4.197,
+    5.038,
+    4.274
    ],
-   "newsAsOf": "20261115",
-   "newsFetchedAt": "2026-11-19T18:29:30.391Z",
-   "newsStale": true,
+   "newsAsOf": "20261121",
+   "newsFetchedAt": "2026-11-21T19:38:49.169Z",
+   "newsStale": false,
    "headlines": [
     {
-     "title": "CAF endorses Infantino for re-election as FIFA president",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRUdrNUFkSHlfeDdiM2RGUlNJOG9pRkw1WGRZOVhVRWpSVy16TGtmSEFMbURuYWxXTC1YOEpEWm5ZTHBfbmk1T3plMDl5Rktla241bUQ4d0doQUVONFFTNElNTXFDM3d3YklwMktfQ1AyTWRlZTN6d2NjY3VvX2hmNTQ3Vl82YkJzZ0dMSWZEUVROUHNudHlaUVdhSUFSUEgy?oc=5",
-     "source": "Reuters",
-     "date": "2026-11-21T11:35:20.000Z"
+     "title": "GOP will keep control of NC Senate after recount finds narrow victory",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcXljT25iMFltblBOYjVGd2hQaGtBUW1rUEY4MVMxbmxrYTI1d0xFdUtuRkJJVldZN2lXdmtHZUluY3NMcUhfY2RGa3AwRkFJS3pVSEVkcjBMMklLaWxtTWxkVHdpc0pzX09GRzNPOHJERFdhVEZVYjFub3RTTDFpV1BjaGFPRkdLOEc3ctIBjAFBVV95cUxOTG9wdDNTOHFtZnpSWTY3QnNpVUdHdktiQ0w0R1NRYkQtTktMckp6THlsRVZlWk1td0gyQnNqSUF2a3RZLTZuSy1pQzYtNTJFXzRaRG14S3dhc2c3dVZxVnZsTjVDYTRqeW12YWZBTGtUY2VQTzctaC1Gb2Q1MExFMHNoUFl1TThmZ2M5Mw?oc=5",
+     "source": "News & Observer",
+     "date": "2026-11-21T19:26:33.000Z"
     },
     {
-     "title": "2028 Election, Rubio Overtakes Vance, Ossoff Leads Democrats in New Poll",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWFczSmVRVk1oT0FQRUg3bUhXVVkyYzBRNnFkNGRPeG93RHVrSFRTUklfZXVPLUptRzJkQ0hfaHlRc3oxcmtiOFV6ejRZbVZaOEM1cnNuWG52V21TWE04dE5sVFROWF9TaGtFa0V3UUphRFRpZ2g2R0JQTDZIcWJENy1IVUZobnhfYW4yRzlydmJLcFNBclI4dUkzTE5sRGNuLVM0TDc5aWVBZWNVY2MtWTJxRUotZkR2SHc?oc=5",
-     "source": "La Voce di New York",
-     "date": "2026-11-21T11:34:50.000Z"
+     "title": "Near record-breaking number of people voted in 2026 midterm elections in Massachusetts",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOGp0YlhIU2k1LXd2Y1FtWjdhTWQ2Z1QwLWVrYTVqek45NTV4N1NiOGEtNjZXNVpuclRoeWw3a3ZVSm8zeDV1Rm16QTZKdzBndzRMektERDFQd09pRlhmRC04MGpjR09md1hUakhWOEFIV3VRQTdjSkpjMGtDMjZTYnNsQTZ4dw?oc=5",
+     "source": "CBS News",
+     "date": "2026-11-21T19:05:00.000Z"
     },
     {
-     "title": "Most new Black Democrats in decades to join US Congress, set to sway policy, party",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS2xUZFEwY1RDY09Mc1lXQTdCMFk5ZWlCb0ZSakJuQmppYzI2Y0loc3BRdEp4MXhtMkNhY0Vsdk9fYUpEUTNUTTh0SFl3akZqUUdKWGdJTnpCVVFwZm1LOE5SNTcwV0VOSXc3S1k4SHM2R0UzV1liTm84SkZRZVNUZlYwZi1xLWpnVVBQaUVuaFFPM3NockMtcnhrYms0YmNJNXJzRXRVZ1hNNWFWYjNLU09JRzVDVXc?oc=5",
-     "source": "Reuters",
-     "date": "2026-11-21T11:16:12.000Z"
+     "title": "‘How do you explain that to a 10-year-old?’: racist vandalism almost drove an Indigenous candidate to drop out of the Victorian election",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYjU1M2pVcGV3b0ZjNkFMellPdG9oblpWWlBvRnYxb0ZtZndZTGlsN3VWU0JjMU52ZXVHZUUtNlBjeVI3eWdtWHRVSTBkdEdEX0Job2lFYXJlXzBuVEVveFdGNEgya2VHcW1sTno3UjdRdWNTUWhLMVY2bnozNVE4ZUdlUXk0c080cDFNcFkyYXFsTkM1d0NqcmVPRUpTdWF6UzNnc2hkMlZXX01QdU1adlBKamJ2Tk5zcVZnbGpCWTFSYmlzcnNfMFZSWQ?oc=5",
+     "source": "The Guardian",
+     "date": "2026-11-21T19:02:00.000Z"
     },
     {
-     "title": "Democrats won big in the midterms. So now what?",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQnE0d0FZemxNMWZJX21aTjIxTVZwc3ZQaHlac3pnUFBKS010UEc2bXluckswdTJwa2hlY3N1Qzc4aGVGejB1NVJMOFFKQnVYYWppY2NiLUpkdG9reWJEdU50V2t5eWxKVmpjMzI4SWFxbi1rSDhPRG9UUmNqM3JGczBlTlZnSW1ORnZDYXI1dTdVOXg0c3c?oc=5",
-     "source": "Reuters",
-     "date": "2026-11-21T11:07:43.000Z"
+     "title": "LaPlace native Penny Brown Reynolds reflects on historic Georgia election win, Louisiana roots",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOYi1DQmJwc1dPR0VvbzhIbTU5TzBkWkdnOHFuZk13VWpvWnJuaXpCTExyOTdPbUs5WEdwWnhKeExGa3V2UThVd19yd20zS3E0bW5ENUdBS0FaSGtaSVREcXdRNjdZSlotRkg5b0pWcU5xLVpfekk0SUxXN2dlUk05SmhGblpLX3E2RHV3RktGOHZnOVBaS2ZaZ19CMzYzbWRPX3hSektzNS0zNnVoQUNNN2Vscnh4NEltQXM5ckhIR2c2QzROdEd4Ni0zc2pycVc0ODJwNG4zcDBZb3VnQUhrTEJXZUIwbkluTU9HY0ZKMGZDbzRYbXlpU0w2VktJYXJ6M0JCNDZ4M1VLUQ?oc=5",
+     "source": "WWLTV.com",
+     "date": "2026-11-21T18:13:57.000Z"
     },
     {
-     "title": "Gianni Infantino’s FIFA re-election backed by South America’s CONMEBOL",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSmE5TnVaRjQzMXRRaFhXa1dlZVgxTENGM2RhWmR6cFR2d25YUXdQdF9KZWZTRUtiX1JLVVZESDNaY0Y5YmNVLU0xSzJkNWl3bTdzVmRFUGEtQUZ1WWpJcklPTnZZMDhDLTBQOFF1VEV0VFdhd0lrTnJ3YlIzNlFEWjVkY2F5TXJxc2NGZjAxdGFBZ05laDM1WmxENlJLdUlGME5pMGFTOERTcGh4dGZ1b05R0gG3AUFVX3lxTE5pSUxzNFExTXh3QkJQRGFFcDl6Yy1VNjVsNS1zQnVtM3FuWjFEbEpyc2hBZE5rMDhjRERlNkMtQW1wV0hHRWJXaUExa1VXTmVodVdPaHl5bHIyR3hlTW5TTlNjUjNpWHp4dkFRRGhLcWM0U1k2d3ZBQVBfOUtCcE5tN2NuY1lMeDhULVN2NGNCeDRPMG1MaklwN19mWC1Zc2RPTGlSOTRfRmNTd2M2MDFvcmZzdDFyOA?oc=5",
-     "source": "Al Jazeera",
-     "date": "2026-11-21T11:04:07.000Z"
+     "title": "Foxx vs. Hubbard recount nearly finalized for North Carolina's 5th Congressional District race",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdzQwbEZlNkdvQXp6NUpnVDdLMGdxVHB4VWEwckNDXzU3QUd5ZWx6YlN1VGlSXzZzUlpOM1BKWUQwcXN5ZG8xdlZZNWlmcVU2Q3NudlAyZWdYenhITl9fOC1vQVI2eENhVnc1eUhTazl0UU5GZ2ZmWDhjZzZUUFFkZkhXZ0wyb0pyanZXOHBR?oc=5",
+     "source": "WXII",
+     "date": "2026-11-21T18:11:00.000Z"
     },
     {
-     "title": "Van Hollen, once an insider, has started Democrats’ first big fight",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQkRaRk5fU0hyRUlKclk0dU9oV25DQ3N6ajc5NW1fUFFqZXVGdndrZC16WFk0RFM3TkN6RmJRYlhSTHRMQVFkTXBGbzQzeDJlN1BNRkFJM21SZjFLTHZOUWJRM09FMlZiZzNWa05UbC05WDNPcHJRQVA5RDVLbGFxUzZtbDVxSHdoSlUyOWVWZGpScDJDUmN6Qno0YzA4NE4wWWlUdGh3SkpEbTFpcHpPOFZGekU2Mlk?oc=5",
-     "source": "The Washington Post",
-     "date": "2026-11-21T11:02:06.000Z"
+     "title": "UCLA professor pushes AI-content labels, warning election risks go beyond deepfakes",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWTVfWFFYYTM1bGlnUWR4aTliOEJ1WTB4cE5kZUwtd0FZMkRCS28xb3FWbHFGWmJVNFQ0QWNnVER1YndlR2hSR2JCMVp0LS1HM2x4c055bFlacV9LUGpZNjBRU0Q0U3pjSnVBQUhjSFBSZkhkbDM2THc3czl4TlA2ZGtPaGVDYklEX0JlVXI0WFItbFhHNWFjNUljSWZkLUczVzBQdHBNRkttTFlNOFNWd0F0aGdOWTQ?oc=5",
+     "source": "Superpower Daily",
+     "date": "2026-11-21T18:05:35.000Z"
     }
    ],
    "spike": false
@@ -937,40 +972,40 @@
    "newsStale": false,
    "headlines": [
     {
-     "title": "Gas prices plummet, offering relief",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9IaUNiSVNxOW1CUTY1T1hkem00SVg0bF8wd1BQMmFiV1EzX1NvbHdKVWF6b0VQMEpRaEJBNFlZZTFFREowdlppRFNEcjFjajF0cGp1RUdzU2Q1dlpkQ094Rkl3bmI2ajhSOF9kTXNrdzlENUthcDJQeVpIZ0c3dw?oc=5",
-     "source": "WestCentralOnline",
-     "date": "2026-11-21T12:02:52.000Z"
+     "title": "Thanksgiving Gas Prices Could Break a Record Despite Recent Plunge",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLWtrY0hLNDhyUnhKekstTHlLczFjUGFoM2pMSThHUnJoZjJYMHhObldvUERKdWlHUDJXRmtsNE02cUhSSmZGMzh2S01ZdHExWWpXQnRFc2QyRnE1dEpXSEVWZU5sSkU0clc0emNIR3BUUTI5aW5aWG9UTU85WGMydVAwdWVSRWFPTUFONDlWX3ljQVpBcHhOV2x3dDYzaUs0Q0JrczdtenVTZzZ1OFZHZzBRYXlWRHUtM3Zmcy00d9IBxAFBVV95cUxPOWgwY0lmbm5qUGxvY2IybF9kYXVGLUlVNzlTeXpaUmoxeEpLX05RY1ZMbW1wVk80ckRic2R2dFZSX3VCQkFxZXRXQnRKZTNGNHpuTndkSnZKbEdpemstdnlLWEtiRFRhVU13akpjVWFUZGUybC1KRHBvbGE5VmY0RmpnQVBoRUpFamlWSmhvNnVJVmVCVGpybWNyOWRhc1ZYNzBJbHp1SlZmODk0XzZBQks5eDRvUF9UUGRpeXlPSDdzTEJR?oc=5",
+     "source": "Crude Oil Prices Today | OilPrice.com",
+     "date": "2026-11-21T19:10:00.000Z"
     },
     {
-     "title": "African Currencies Diverge Against US Dollar As Oil Retreats",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcVlucFA1aGRFYWJLVEZXREpIWU9FR1BESHh1djNONldhNUxrMUJ5MHZtVnI2SmF2Z0VTZDJtc2NGMVhLQzhlQ0UzTDFPSVM2dVRrM3dvenNMYllKRW9BV1VTU053NDJ6ajU2WU1zMzVZQ21GZ29kUUJ3Rk83MURqTk5VOXNBNkRhT2Zsb2sxU1U?oc=5",
-     "source": "MarketForces Africa",
-     "date": "2026-11-21T11:38:45.000Z"
+     "title": "A Thanksgiving treat in the offing: Lower gas prices",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd1o4WGN4T2ctWVlKcDFXU2pyRjBmT3otYjJZM0EycEgtcF9aSXl0NG0zRlV6aXhiOVRYdHhabnhvY18taWRDZGFUY3J2US00NHRwV1UwYmlYQ1d5NXdoazJ2WVNPMzV5Z0VlOWprX0d6R1o5UkVMc2g2MDV4c3NydlJkLXdPQ3YxMFo0d0NSWWhOWU1yc1ROQ0hiX3JsRVVVODVRUnNPMGkweHppbV93RERZQ3FOSDl5T1Eyb1QtNE9oVjBocjMteU1qQ1o?oc=5",
+     "source": "The Daily Item",
+     "date": "2026-11-21T18:24:00.000Z"
     },
     {
-     "title": "Middle East Risks Persist as Taiwan's CPC Corporation Freezes Fuel Prices for 10th Straight Week, Absorbing NT$5.9 and NT$5.7 per Liter of Gasoline and Diesel",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xUEpOUlk4b29sZ0VGV1JXVlJobFRnNG10dUlKdWdnby11dnZJRnFXSlpmLUo3SGhiQlNBemlBUkcyLXhOOUtIVzZBblUxZkZvWnhCMkR6cGQ1czlBVW1fVTN5SWRGbXNUY3lxaUVTUWctd0dTZnc?oc=5",
-     "source": "BigGo Finance",
-     "date": "2026-11-21T10:35:00.000Z"
+     "title": "A difficult winter for energy?",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ybm1PaVljaUo2SjI3eTlwRmF4T3NBTE1sZEhVazNDa01YRmtON0xjRk8wTlFUbTl5UGU3QTd3bUM3WTJQRUFJbEF1NTBLYUNDeEdQbk1Qd3JtTW5UMUdYTHotYjRtNDJHTnlKX2ZwVG9IRU9fWVZiNA?oc=5",
+     "source": "Diari ARA",
+     "date": "2026-11-21T18:07:16.000Z"
     },
     {
-     "title": "OIL PRICE ROLLBACK! ⛽️ Motorists should expect a sigh of relief next week as another round of pump price rollback might be implemented. Read more: https://www.gmanetwork.com/news/money/economy/1010298/up-to-p3-liter-diesel-p2-90-liter-gasoline-r",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNHZMY1NYNFd3OHp6MUpBVlRKekk2Rl82bjRpWHAtZ3lHcXdLMXN0MXVWMld2QWpSRWJ1WEpyT0ZNOGh3SlRyVXo1cHZDdzNWdW84eEpqUGhUbDE2RlZ0UEZxYWI1WnFGdVFuelo1enNXeGJXai03bDdRbHZNZlVnWldLcVROY3cwMTdWNkNvNGx6MGdXdHVNems4cnc3U09VTmpyZi1GYnRSTzd5X2lPOEdxZ2trbG9kbk9fOWxDYWNNYVczVkxMSUtoMklqVENRY0xVUHFyQXg5b1ZiMmc?oc=5",
-     "source": "Facebook",
-     "date": "2026-11-21T10:30:02.000Z"
+     "title": "Gas Prices Are Dropping at a 2008 Pace Right Before Thanksgiving",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMVFXb3U5MHU1cEdnNDZTRWQ0NTR2X0pQWHlwNkNmRnYxR3VXc1VqNFpZMy1raGF4RjRjMi1BYkNoS0pzU01ha0h4UHpIVFNxVFhWdllCNkNzdU50akgxZFc3Mng5UlFKQjRtUVB0MjctNkE1VXVKeW42UWk0TktUNWRxTmthVk9uUW90bGI0VGd2VWtBaFBUREpHWHJTU2hZRGhxN1NsS0t5ZkRj?oc=5",
+     "source": "24/7 Wall St.",
+     "date": "2026-11-21T17:22:00.000Z"
     },
     {
-     "title": "Lower gas prices to stay for \"a good part of winter\": Petroleum analyst",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLTNJYlNZdnVCME5yUmJEMFRscDFMekxCWVZZUWZ4Mm9ZOTY2WkVTa2lhbnpTVkFfX1d3RDhBYnJGZU9QYTNuY1l1YjBEc0ZNMXNqS1F1eVNfOTBJR3YzUHFXRktMbTZadEpnMDBLN3VPanZzZklTZmhDbm9aajYwUHVBRUlHSkx4UVhwaVN4UG9zb0M3bEZPOXpGV2lyMTNnR3dPRW16Wkc5b3dWQ2c?oc=5",
-     "source": "PembinaValleyOnline",
-     "date": "2026-11-21T10:02:10.000Z"
+     "title": "Fuel prices seen to drop by up to P3/L next week",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNUJqTVpoeVlXUTFQbXBzdzVmZUtUVzlsX3hoU25jR0pSLVhQUFBxc0lXR0xyUUhoNEktYS1OR0RKdE1nall1WXB6S2xJc2VlN2tZREJMTVN5SkUzN1M0UzhGdGh3YjJEOEtGc0EtT25yMEZRM3Y5QXJYRUNLcnE0WEV5SjllZF9xTE9mNDA5QW9FQXFPRHRWUTFMT2FkWDJxQU5QVW5fNDlNNXZoU1BsOWxNQ3k0ODdza1E?oc=5",
+     "source": "ABS-CBN",
+     "date": "2026-11-21T17:19:58.000Z"
     },
     {
-     "title": "The Fed Is Causing This Meltdown",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tdW5oRjRwRXFBZ0hFQ2dpU0dGSndGeEJTQllHc0g3Tm1PWHJCR0FsX2NYQ1F0T0tlMzl4UWV0VTE3UXY0VjA2Tld0aTExdWJDRmFHZ0xlTGV4eFVReEFtZDI4aUtHQ29jTFdTczlB?oc=5",
-     "source": "Robin J Brooks | Substack",
-     "date": "2026-11-21T10:01:46.000Z"
+     "title": "U.S. car dealerships low on electric vehicle models",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSHN5X05OUWZVdmZlWkgwNVJ4Mnh1X0M3NFNXZVNCTEhrOHdaQTdMQmtURl9iaHRaNVBadkNRa1JFQkstUHBRTzRZLVl6OFBINlFSZDdTMjBnSGZZcmphQlFOdm1PbV81LWJLb0lpdGkySzlRZFdhRncxS0JYNjBLM3JMYjhabEpEZnFLM2U4NEhxZl84b1JwdnhPRkZudnlxN05xMV9fYnVsSk53eVhHanI3WGhQSVkwNlg5RjdPWmJwclE4SEpmUw?oc=5",
+     "source": "The Detroit News",
+     "date": "2026-11-21T16:49:00.000Z"
     }
    ],
    "spike": false
