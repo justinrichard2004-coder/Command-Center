@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T14:38:58.887Z",
+ "generatedAt": "2026-11-27T23:11:15.985Z",
  "status": {
   "markets": "ok",
   "world": "ok",
@@ -12,350 +12,347 @@
   {
    "symbol": "^GSPC",
    "name": "S&P 500",
-   "price": 7236.39,
-   "changePct": 0.75,
-   "time": "2026-11-27T14:38:47.000Z"
+   "price": 7297.49,
+   "changePct": 1.6,
+   "time": "2026-11-27T18:38:39.000Z"
   },
   {
    "symbol": "^IXIC",
    "name": "Nasdaq",
    "price": 23802.283,
    "changePct": 0.92,
-   "time": "2026-11-27T14:38:56.000Z"
+   "time": "2026-11-27T14:38:56.000Z",
+   "stale": true
   },
   {
    "symbol": "^DJI",
    "name": "Dow",
    "price": 50531.44,
    "changePct": 0.69,
-   "time": "2026-11-27T14:38:59.000Z"
+   "time": "2026-11-27T14:38:59.000Z",
+   "stale": true
   },
   {
    "symbol": "^RUT",
    "name": "Russell 2000",
    "price": 2704.061,
    "changePct": 0.71,
-   "time": "2026-11-25T21:30:13.000Z"
+   "time": "2026-11-25T21:30:13.000Z",
+   "stale": true
   },
   {
    "symbol": "^VIX",
    "name": "VIX",
    "price": 25.97,
    "changePct": -3.1,
-   "time": "2026-11-27T14:23:46.000Z"
+   "time": "2026-11-27T14:23:46.000Z",
+   "stale": true
   },
   {
    "symbol": "^TNX",
    "name": "10Y yield",
    "price": 4.902,
    "changePct": 1.11,
-   "time": "2026-11-27T14:23:54.000Z"
+   "time": "2026-11-27T14:23:54.000Z",
+   "stale": true
   },
   {
    "symbol": "CL=F",
    "name": "WTI crude",
    "price": 84.14,
    "changePct": 0.55,
-   "time": "2026-11-27T14:28:58.000Z"
+   "time": "2026-11-27T14:28:58.000Z",
+   "stale": true
   },
   {
    "symbol": "BZ=F",
    "name": "Brent",
    "price": 91.3,
    "changePct": -3.5,
-   "time": "2026-11-27T14:28:09.000Z"
+   "time": "2026-11-27T14:28:09.000Z",
+   "stale": true
   },
   {
    "symbol": "GC=F",
    "name": "Gold",
    "price": 3664.7,
    "changePct": 3.65,
-   "time": "2026-11-27T14:29:01.000Z"
+   "time": "2026-11-27T14:29:01.000Z",
+   "stale": true
   },
   {
    "symbol": "SI=F",
    "name": "Silver",
    "price": 44.2,
    "changePct": 10.36,
-   "time": "2026-11-27T14:28:55.000Z"
+   "time": "2026-11-27T14:28:55.000Z",
+   "stale": true
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "price": 60369.31,
    "changePct": -0.21,
-   "time": "2026-11-27T14:38:59.000Z"
+   "time": "2026-11-27T14:38:59.000Z",
+   "stale": true
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
    "price": 1690.41,
    "changePct": 0.16,
-   "time": "2026-11-27T14:38:57.000Z"
+   "time": "2026-11-27T14:38:57.000Z",
+   "stale": true
   }
  ],
  "world": [
   {
-   "title": "Airline Norse Atlantic files for bankruptcy, succumbing to aviation fuel costs",
-   "url": "https://www.dw.com/en/airline-norse-atlantic-files-for-bankruptcy-succumbing-to-aviation-fuel-costs/a-80076728?maca=en-rss-en-world-4025-rdf",
-   "source": "DW",
-   "date": "2026-11-27T14:20:00.000Z"
-  },
-  {
-   "title": "Rare turtles found inside baggage at Amsterdam airport",
-   "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "date": "2026-11-27T13:38:07.000Z"
-  },
-  {
-   "title": "Why did Georgian police clash with Turkish football fans over Palestine?",
-   "url": "https://www.aljazeera.com/sports/2026/11/27/why-did-georgian-police-clash-with-turkish-football-fans-over-palestine?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-27T13:32:55.000Z"
-  },
-  {
-   "title": "The Gambia election: Can Barrow secure a third term?",
-   "url": "https://www.dw.com/en/the-gambia-election-can-barrow-secure-a-third-term/a-80076340?maca=en-rss-en-world-4025-rdf",
-   "source": "DW",
-   "date": "2026-11-27T13:31:00.000Z"
-  },
-  {
-   "title": "Eisenkot navigates tricky waters as he tests power-sharing with Netanyahu",
-   "url": "https://www.aljazeera.com/news/2026/11/27/eisenkot-navigates-tricky-waters-as-he-tests-power-sharing-with-netanyahu?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-27T13:28:55.000Z"
-  },
-  {
-   "title": "On the arrest of Informer TV owner and editor-in-chief Dragan J. Vucicevic: Has the reckoning with Serbia's pro-Vucic media machine begun?",
-   "url": "https://www.dw.com/en/on-the-arrest-of-informer-tv-owner-and-editor-in-chief-dragan-j-vucicevic-has-the-reckoning-with-serbia-s-pro-vucic-media-machine-begun/a-80074650?maca=en-rss-en-world-4025-rdf",
-   "source": "DW",
-   "date": "2026-11-27T13:28:00.000Z"
-  },
-  {
-   "title": "Duterte's ICC trial: What is at stake for the Philippines?",
-   "url": "https://www.dw.com/en/duterte-s-icc-trial-what-is-at-stake-for-the-philippines/a-80075657?maca=en-rss-en-world-4025-rdf",
-   "source": "DW",
-   "date": "2026-11-27T13:23:00.000Z"
-  },
-  {
-   "title": "Famine expect to rise due to global conflict, El Nino, warns UN",
-   "url": "https://www.aljazeera.com/news/2026/11/27/famine-expect-to-rise-due-to-global-conflict-el-nino-warns-un?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-27T13:16:28.000Z"
-  },
-  {
-   "title": "Sentence served, still detained: Palestinian families waiting for reunions",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/sentence-served-still-detained-palestinian-families-waiting-for-reunions?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-27T13:14:52.000Z"
-  },
-  {
-   "title": "England’s Overton takes 5-12 as Australia bowled out for record low in T20",
-   "url": "https://www.aljazeera.com/sports/2026/11/27/englands-overton-takes-5-12-as-australia-bowled-out-for-record-low-in-t20?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-27T13:06:54.000Z"
-  },
-  {
-   "title": "Risks of child marriage in Iran complicated by war",
-   "url": "https://www.dw.com/en/risks-of-child-marriage-in-iran-complicated-by-war/a-80075473?maca=en-rss-en-world-4025-rdf",
-   "source": "DW",
-   "date": "2026-11-27T13:06:00.000Z"
-  },
-  {
-   "title": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan?",
-   "url": "https://www.aljazeera.com/features/2026/11/27/trump-embraced-xi-then-slapped-new-tariffs-on-china-whats-his-game-plan?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-27T12:48:44.000Z"
-  },
-  {
-   "title": "European football violence causes concern with far-right claim in UEFA game",
-   "url": "https://www.aljazeera.com/sports/2026/11/27/european-football-violence-fuels-concern-as-marseille-far-right-claim-made?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-27T12:12:56.000Z"
-  },
-  {
-   "title": "US: Thanksgiving storms cause flooding and travel chaos",
-   "url": "https://www.france24.com/en/video/20261127-us-thanksgiving-storms-cause-flooding-and-travel-chaos",
-   "source": "France 24",
-   "date": "2026-11-27T12:02:48.000Z"
-  },
-  {
-   "title": "Black Friday: The evolution of a shopping phenomenon",
-   "url": "https://www.france24.com/en/video/20261127-black-friday-the-evolution-of-a-shopping-phenomenon",
-   "source": "France 24",
-   "date": "2026-11-27T12:01:43.000Z"
-  },
-  {
-   "title": "Saudi strike kills ’11 civilians’ in Yemen’s Taiz: Houthi media",
-   "url": "https://www.aljazeera.com/news/2026/11/27/saudi-strike-kills-11-civilians-in-yemens-taiz-houthi-media?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-27T12:00:22.000Z"
-  },
-  {
-   "title": "Ukraine: Residents brace for another difficult winter",
-   "url": "https://www.france24.com/en/video/20261127-ukraine-residents-brace-for-another-difficult-winter",
-   "source": "France 24",
-   "date": "2026-11-27T11:54:15.000Z"
-  },
-  {
-   "title": "Italians killed in Kuwait: Why is Iran denying responsibility?",
-   "url": "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-27T11:51:26.000Z"
-  },
-  {
-   "title": "Spain election: Housing crisis and immigration dominate final campaign debate",
-   "url": "https://www.france24.com/en/video/20261127-spain-election-housing-crisis-and-immigration-dominate-final-campaign-debate",
-   "source": "France 24",
-   "date": "2026-11-27T11:51:07.000Z"
-  },
-  {
-   "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
-   "url": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france",
+   "title": "Sudan's lost generation: War is stealing a generation of childhood",
+   "url": "https://www.npr.org/2026/11/27/nx-s1-6053049/sudans-lost-generation-war-is-stealing-a-generation-of-childhood",
    "source": "NPR",
-   "date": "2026-11-27T11:49:50.000Z"
+   "date": "2026-11-27T22:54:53.000Z"
   },
   {
-   "title": "Kuwait: Two Italians killed in drone attack",
-   "url": "https://www.france24.com/en/video/20261127-kuwait-two-italians-killed-in-drone-attack",
-   "source": "France 24",
-   "date": "2026-11-27T11:45:48.000Z"
-  },
-  {
-   "title": "Russia’s hybrid war on Europe evolving, but failing: IISS",
-   "url": "https://www.aljazeera.com/news/2026/11/27/russias-hybrid-war-on-europe-evolving-but-failing-iiss?traffic_source=rss",
+   "title": "Kenyan cult leader guilty of manslaughter more than 123 starvation deaths",
+   "url": "https://www.aljazeera.com/news/2026/11/27/kenyan-cult-leader-guilty-of-manslaughter-more-than-123-starvation-deaths?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-11-27T11:44:46.000Z"
+   "date": "2026-11-27T22:33:17.000Z"
   },
   {
-   "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
-   "url": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
+   "title": "US military says it disabled merchant ship trying to breach Iran blockade",
+   "url": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-27T22:22:02.000Z"
+  },
+  {
+   "title": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
+   "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
    "source": "BBC",
-   "date": "2026-11-27T11:44:40.000Z"
+   "date": "2026-11-27T22:03:46.000Z"
   },
   {
-   "title": "EU: Leaders fail to reach agreement on next budget after tense summit",
-   "url": "https://www.france24.com/en/video/20261127-eu-leaders-fail-to-reach-agreement-on-next-budget-after-tense-summit",
-   "source": "France 24",
-   "date": "2026-11-27T11:42:43.000Z"
+   "title": "S&P revises France's outlook from 'stable' to 'negative'",
+   "url": "https://www.france24.com/en/france/20261127-s-p-revises-france-s-outlook-from-stable-to-negative",
+   "source": "© Henny Ray Abrams, AP",
+   "date": "2026-11-27T22:00:20.000Z"
   },
   {
-   "title": "Israel's Eisenkot reaches deal with left-wing faction as coalition talks gain steam",
-   "url": "https://www.france24.com/en/video/20261127-israel-s-eisenkot-reaches-deal-with-left-wing-faction-as-coalition-talks-gain-steam",
-   "source": "France 24",
-   "date": "2026-11-27T11:36:33.000Z"
-  },
-  {
-   "title": "Old wounds reopen as Kyrgyzstan’s Osh embraces a new urban project",
-   "url": "https://www.aljazeera.com/features/2026/11/27/old-wounds-reopen-as-kyrgyzstans-osh-embraces-a-new-urban-project?traffic_source=rss",
+   "title": "‘Activists of rhythm’: Fighting Spain’s far-right through art",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/activists-of-rhythm-fighting-spains-far-right-through-art?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-11-27T11:35:34.000Z"
+   "date": "2026-11-27T21:59:11.000Z"
   },
   {
-   "title": "What Spain’s election means for Morocco",
-   "url": "https://www.aljazeera.com/opinions/2026/11/27/what-spains-election-means-for-morocco?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-27T11:33:17.000Z"
-  },
-  {
-   "title": "Ex-Kenyan governor jailed for 25 years over pregnant girlfriend's murder",
-   "url": "https://www.bbc.co.uk/news/articles/crx209ekq5xdo?at_medium=RSS&at_campaign=rss",
+   "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+   "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
    "source": "BBC",
-   "date": "2026-11-27T11:22:02.000Z"
+   "date": "2026-11-27T21:55:53.000Z"
   },
   {
-   "title": "Israeli attacks on women and girls meant ‘to destroy life’ in Gaza: Amnesty",
-   "url": "https://www.aljazeera.com/news/2026/11/27/israeli-attacks-on-women-and-girls-meant-to-destroy-life-in-gaza-amnesty?traffic_source=rss",
+   "title": "Uganda to withdraw troops from DR Congo",
+   "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261127-uganda-to-withdraw-troops-from-dr-congo",
+   "source": "France 24",
+   "date": "2026-11-27T21:44:29.000Z"
+  },
+  {
+   "title": "Why are families going hungry in northern Yemen even where food is on sale?",
+   "url": "https://www.aljazeera.com/economy/2026/11/27/why-are-families-going-hungry-in-northern-yemen-even-where-food-is-on-sale?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-11-27T11:15:03.000Z"
+   "date": "2026-11-27T21:11:27.000Z"
   },
   {
-   "title": "Tyson Fury’s wife backtracks on claim boxer suffers from schizophrenia",
-   "url": "https://www.aljazeera.com/sports/2026/11/27/tyson-furys-wife-backtracks-on-claim-boxer-suffers-from-schizophrenia?traffic_source=rss",
+   "title": "Ukraine submits Black Sea ceasefire offer, awaits Russian response",
+   "url": "https://www.france24.com/en/europe/20261127-ukraine-submits-black-sea-ceasefire-offer-awaits-russian-response",
+   "source": "© Michael Shtekel, AP",
+   "date": "2026-11-27T21:09:12.000Z"
+  },
+  {
+   "title": "Venezuela to repeal law that bans opposition figures from office",
+   "url": "https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-11-27T11:12:58.000Z"
+   "date": "2026-11-27T20:44:03.000Z"
   },
   {
-   "title": "Pakistan’s viral cricket catch star hopes to launch career",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/27-11-sv-pakistan-viral-cricket-catch?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-27T11:12:54.000Z"
+   "title": "Spanish elections: 'Right-wing voters extremely mobilised, left-wing voters not mobilised enough'",
+   "url": "https://www.france24.com/en/tv-shows/spotlight/20261127-spanish-elections-right-wing-voters-extremely-mobilised-left-wing-voters-not-mobilised-enough",
+   "source": "France 24",
+   "date": "2026-11-27T20:43:44.000Z"
   },
   {
-   "title": "Indian workers fill Germany's labor gaps but face hurdles and risks",
-   "url": "https://www.dw.com/en/indian-workers-fill-germany-s-labor-gaps-but-face-hurdles-and-risks/a-80072882?maca=en-rss-en-world-4025-rdf",
+   "title": "Canada: Supreme Court largely upholds Quebec secularism bill",
+   "url": "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571?maca=en-rss-en-world-4025-rdf",
    "source": "DW",
-   "date": "2026-11-27T11:06:00.000Z"
+   "date": "2026-11-27T20:43:00.000Z"
   },
   {
-   "title": "Immigration: South Africa no longer an El Dorado for foreigners",
-   "url": "https://www.france24.com/en/tv-shows/reporters/20261127-immigration-south-africa-no-longer-an-el-dorado-for-foreigners",
-   "source": "France 24",
-   "date": "2026-11-27T11:02:19.000Z"
+   "title": "OpenAI countersues Apple over trade secrets as AI race heats up",
+   "url": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-27T20:40:51.000Z"
   },
   {
-   "title": "Spain’s Pedro makes final campaign push to beat the right ahead of crunch vote",
-   "url": "https://www.france24.com/en/europe/20261127-sanchez-makes-last-bid-to-beat-the-right-ahead-of-spanish-vote",
-   "source": "© Josep Lago, AFP",
-   "date": "2026-11-27T10:57:18.000Z"
+   "title": "Putin unveils new Russian nuclear-powered submarine with hypersonic weapons",
+   "url": "https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-27T20:39:57.000Z"
   },
   {
-   "title": "Israel's Eisenkot and left-wing party agree coalition deal",
-   "url": "https://www.france24.com/en/video/20261127-israel-s-eisenkot-and-left-wing-party-agree-coalition-deal",
-   "source": "France 24",
-   "date": "2026-11-27T10:48:08.000Z"
-  },
-  {
-   "title": "Spain general election 2026: Could Sánchez lose power?",
-   "url": "https://www.france24.com/en/video/20261127-spain-general-election-2026-could-s%C3%A1nchez-lose-power",
-   "source": "France 24",
-   "date": "2026-11-27T10:46:41.000Z"
-  },
-  {
-   "title": "EU leaders split over budget spending and a $49 billion loan to Ukraine",
-   "url": "https://www.france24.com/en/video/20261127-eu-leaders-split-over-budget-spending-and-a-49-billion-loan-to-ukraine",
-   "source": "France 24",
-   "date": "2026-11-27T10:45:18.000Z"
-  },
-  {
-   "title": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
-   "url": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo?at_medium=RSS&at_campaign=rss",
+   "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
+   "url": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
    "source": "BBC",
-   "date": "2026-11-27T10:39:31.000Z"
+   "date": "2026-11-27T20:34:45.000Z"
   },
   {
-   "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
-   "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "date": "2026-11-27T10:26:28.000Z"
+   "title": "Hamas chief’s last surviving son escapes Israeli strike in Gaza",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_-hamas-chiefs-son-escapes-israeli-strike-gaza-271126?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-27T20:18:45.000Z"
   },
   {
-   "title": "Clashes mar European games as Macron condemns violence",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
+   "title": "The End of Spain’s ‘Frankenstein’ Coalition? Presidential Plotting in Paris, Kushner & Kremlin Trap",
+   "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261127-the-end-of-spain-s-frankenstein-coalition-presidential-plotting-in-paris-kushner-kremlin-trap",
+   "source": "France 24",
+   "date": "2026-11-27T20:14:37.000Z"
+  },
+  {
+   "title": "UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/un-gaza-rapporteur-francesca-albanese-denied-entry-into-costa-rica?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-27T20:10:30.000Z"
+  },
+  {
+   "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+   "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
    "source": "BBC",
-   "date": "2026-11-27T10:24:24.000Z"
+   "date": "2026-11-27T20:06:31.000Z"
+  },
+  {
+   "title": "Is Iraq facing renewed instability?",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/11/27/is-iraq-facing-renewed-instability?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-27T19:56:35.000Z"
+  },
+  {
+   "title": "Israel kills four in Gaza as Hamas chief al-Hayya’s son survives strike",
+   "url": "https://www.aljazeera.com/news/2026/11/27/israel-kills-four-in-gaza-as-hamas-chief-al-hayyas-son-survives-strike?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-27T19:53:25.000Z"
+  },
+  {
+   "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+   "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "date": "2026-11-27T18:42:50.000Z"
+  },
+  {
+   "title": "The AI revolution: Will I lose my job?",
+   "url": "https://www.france24.com/en/tv-shows/the-51/20261127-the-ai-revolution-will-i-lose-my-job",
+   "source": "France 24",
+   "date": "2026-11-27T18:39:38.000Z"
+  },
+  {
+   "title": "Is Spain 'nostalgic' for Franco? Would traditional right PP consider an alliance with far-right Vox?",
+   "url": "https://www.france24.com/en/is-spain-nostalgic-for-franco-would-traditional-right-pp-consider-an-alliance-with-far-right-vox",
+   "source": "France 24",
+   "date": "2026-11-27T18:31:42.000Z"
+  },
+  {
+   "title": "'From bad to catastrophic: Iran's justice system was already unfair for many decades'",
+   "url": "https://www.france24.com/en/from-bad-to-catastrophic-iran-s-justice-system-was-already-unfair-for-many-decades",
+   "source": "France 24",
+   "date": "2026-11-27T18:18:46.000Z"
+  },
+  {
+   "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+   "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "date": "2026-11-27T18:00:40.000Z"
+  },
+  {
+   "title": "Mexico files complaint with US over DEA tip line on alleged drug dealers",
+   "url": "https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-27T17:58:36.000Z"
+  },
+  {
+   "title": "Uganda to withdraw troops from DR Congo town after army chief's threat sparks row",
+   "url": "https://www.france24.com/en/africa/20261127-uganda-withdraw-troops-dr-congo-town-after-army-chief-threat-row",
+   "source": "© Philemon Barbier, AFP",
+   "date": "2026-11-27T17:56:28.000Z"
+  },
+  {
+   "title": "Spanish rescuers treat migrants as hundreds arrive in Canary Islands",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-27T17:44:50.000Z"
+  },
+  {
+   "title": "Kyiv offers Black Sea ceasefire to protect grain exports",
+   "url": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-27T17:44:33.000Z"
+  },
+  {
+   "title": "Mecca pact allies condemn ‘heinous’ Houthi attacks on Saudi Arabia",
+   "url": "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-27T17:41:24.000Z"
+  },
+  {
+   "title": "Spain races to stop oil spill after ship capsizes off Ibiza",
+   "url": "https://www.france24.com/en/video/20261127-spain-races-to-stop-oil-spill-after-ship-capsizes-off-ibiza",
+   "source": "France 24",
+   "date": "2026-11-27T17:35:36.000Z"
+  },
+  {
+   "title": "French far-left candidate Mélenchon demands ‘thorough overhaul’ of Germany ties",
+   "url": "https://www.france24.com/en/france/20261127-french-far-left-candidate-m%C3%A9lenchon-demands-thorough-overhaul-germany-ties",
+   "source": "© Kenzo Tribouillard, AFP",
+   "date": "2026-11-27T17:31:15.000Z"
+  },
+  {
+   "title": "OM - Levski Sofia: A night of violence disrupts Marseille match",
+   "url": "https://www.france24.com/en/video/20261127-om-levski-sofia-a-night-of-violence-disrupts-marseille-match",
+   "source": "France 24",
+   "date": "2026-11-27T17:29:48.000Z"
+  },
+  {
+   "title": "Paris Paloma tackles Greek mythology, generative AI in her second album 'The Fatal Flaw'",
+   "url": "https://www.france24.com/en/tv-shows/arts24/20261127-paris-paloma-tackles-greek-mythology-generative-ai-in-her-second-album-the-fatal-flaw",
+   "source": "France 24",
+   "date": "2026-11-27T17:25:27.000Z"
+  },
+  {
+   "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
+   "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "date": "2026-11-27T17:19:31.000Z"
+  },
+  {
+   "title": "France is dealing with water insecurity – a new study shows it's a global problem",
+   "url": "https://www.france24.com/en/environment/20261127-france-dealing-with-water-insecurity-%E2%80%93-new-study-shows-global-problem",
+   "source": "© Manu Fernandez, AP",
+   "date": "2026-11-27T17:10:11.000Z"
+  },
+  {
+   "title": "Big EU defence projects under threat from proposed budget cuts: Commissioner Andrius Kubilius",
+   "url": "https://www.france24.com/en/tv-shows/talking-europe/20261127-big-eu-defence-projects-under-threat-from-proposed-budget-cuts-commissioner-andrius-kubilius",
+   "source": "France 24",
+   "date": "2026-11-27T17:03:56.000Z"
+  },
+  {
+   "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+   "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "date": "2026-11-27T16:53:46.000Z"
   }
  ],
  "quakes": [
-  {
-   "mag": 5.7,
-   "place": "Revilla Gigedo Islands region",
-   "time": "2026-11-26T15:26:44.294Z",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udq5",
-   "tsunami": false
-  },
   {
    "mag": 5.1,
    "place": "107 km SSE of Auki, Solomon Islands",
    "time": "2026-11-27T00:07:00.857Z",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udt9",
-   "tsunami": false
-  },
-  {
-   "mag": 5.1,
-   "place": "Bonin Islands, Japan region",
-   "time": "2026-11-26T19:33:08.628Z",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udry",
    "tsunami": false
   },
   {
@@ -388,16 +385,16 @@
   },
   {
    "mag": 4.5,
-   "place": "131 km WNW of Neiafu, Tonga",
-   "time": "2026-11-27T12:48:16.841Z",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udwh",
+   "place": "Izu Islands, Japan region",
+   "time": "2026-11-27T21:47:28.211Z",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue0a",
    "tsunami": false
   },
   {
    "mag": 4.5,
-   "place": "95 km SSE of Sarangani, Philippines",
-   "time": "2026-11-26T16:18:00.760Z",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udqa",
+   "place": "131 km WNW of Neiafu, Tonga",
+   "time": "2026-11-27T12:48:16.841Z",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udwh",
    "tsunami": false
   }
  ],
@@ -406,11 +403,6 @@
    "title": "Wildfire Little Ridge, Highland, Virginia",
    "category": "Wildfires",
    "date": "2026-11-21T23:15:00Z"
-  },
-  {
-   "title": "Wildfire White Oak Flat, Alleghany, Virginia",
-   "category": "Wildfires",
-   "date": "2026-11-20T13:16:00Z"
   },
   {
    "title": "Tropical Cyclone Xavier",
@@ -466,40 +458,40 @@
    "newsStale": true,
    "headlines": [
     {
-     "title": "Trump tariffs brought EU and Indonesia closer, minister tells Euronews",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcC1jbElQVnEwMzZDY2g0TGl3SW5fbjR0OFlQMl9wOU1DX2dBSVhqQjF0dWN2OWZ6R1VHdTQ2SGYyU0hzaDA3T1V3UVpPRTZ3SHV4T1NHQ0dLelhwMDl0TTROLUpXTnYwRmVBOGVVZ0NDU2ZsdlN4ZEp6Tl9XU0swNE95TS1pbDZ6V0FzTGRWNG1sYm1aY1dDdVJIdGVYWjRJR0RRdm5aVmlRekw1N0tEZjg1S3g?oc=5",
-     "source": "Euronews.com",
-     "date": "2026-11-27T14:29:14.000Z"
+     "title": "America to raise tariffs on Swiss imports to 15%",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRjFQcUoydEU3a29CQm03WU9mYkF3cHlzWHg3MkswZHl3R05jdVJoZDR1aDRxNGhoNzJRanN2TlBPWGRVand3VmlwcTZNUDdWbmU3U3RlR2p2TGlKSUxBSXpCMFZMbTZGdTBoYkpPSXA2eUVtaXpxZDhnUmRlckNhZ05Kdw?oc=5",
+     "source": "Le News",
+     "date": "2026-11-27T22:51:03.000Z"
     },
     {
-     "title": "Middle and smaller powers have ‘limited leverage’ against Trump’s tariffs: Expert",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONUlfMWJiQlJqc0ZBV1JyM2FtMXp0Mmx1cUNHMTZiVEhMQXdSbUM3d2dpU1ZXOXpwZHQ4bllYOEFFSU5zWG1LLUs3X3JRVV84S2ZnQ3pRUDZkRUkwcjZuejJzUVJnOTNsVTRoS0lCV0Y4QkNXeWthUXN3TzF3czBpTFBVNENMQjJDWWNzVUdHT29BY2c2c1BIbTlWa2VhSHZ6bW5VN2dRS1BDNGo4VHE3TVhCbVJJVE82TUNoRDJqZE1KUQ?oc=5",
-     "source": "The Business Times",
-     "date": "2026-11-27T14:17:00.000Z"
+     "title": "Tariffs face new scrutiny as Republicans weigh joining Democrats",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNDBiS2FYd29LbEY1MWxEV3paYnJfSmNjUWFrejhrcHJjTFpBd0RQS3FKOEpsMjJXZWZQcmlOMUx5bE02RVV6T1g0ZEhlNHdfSHlpWGw0SUFDb1lBSkpraXROQWlxOGg0YXU2Vzh0VlQtNW1MYzktVk0xUjE1UEJhNHRZcDlFMjFZZ2VMclJZQmNtTDZtbUhXaUpSYk14cnJaenozVjlYQUJFd21XTkhHQjh5V0NWNGFwUmc?oc=5",
+     "source": "Los Angeles Times",
+     "date": "2026-11-27T22:21:34.000Z"
     },
     {
-     "title": "First Thing Today | China expresses ‘firm opposition’ to new tariffs",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcER5TGtGa2xsV2VyNWtEaHVWSDdLdnRZOHlveGVIYXNLUUI0cXl1OUp2THdBS2ZWeXI5VGhzUFpjVk52UlMtRW9TQTJEaHB0eE5PU1EtZnIxR0ZwQkdGVVRNZ1pQUk5nbUxiYVlHeXVnUkViYnlDRjNrXzU4Z3pUS3JVV3ExSDljQ09mS2xSVm9ocmU0TkFrajF6VnhfQUhJUndYSk15UGg1ZUpOZnRr?oc=5",
-     "source": "Pro Farmer",
-     "date": "2026-11-27T14:06:47.000Z"
+     "title": "New Tariffs on China Risk Undermining Trade Truce With U.S.",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUcwQ3JjLUlNWjhSZnFuYWMzVEFGd0RMR2lZT2VmWUdBejNHckpxbWFSb0lsTUNuTzktdm9qTk94eTgxMXFRQkplOTdZZkFDSEVaUkVZcWFfb1lEMTNEVzFHd013bXhoRFU4ajZjOTB0UXFhM1FacVliRVdqcFY5dG11UURVYmFZang5ZEpaZEVCazhBMjFz?oc=5",
+     "source": "WSJ",
+     "date": "2026-11-27T22:13:52.000Z"
     },
     {
-     "title": "Asia FX Weekly",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KbzY3aEdoMmRTdlVldTJkdXBDQ0xJZDFzVkttTG1PRFk5VVlReTZ0bWd6amRpVl9DclBkZ1RkM1VMRFc2b0RFcW1tZTQ1Z0RPUUZDWjM3bnpiclhsamFFT0gxVUFRel9PdDkyR3JuQ1ltQQ?oc=5",
-     "source": "MUFG Research",
-     "date": "2026-11-27T14:05:01.000Z"
+     "title": "China Challenges Mexico’s Tariffs as Trade Talks Continue",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY3dZaEQ5NlhnNTQ4NEhxZ2lDSXhXbk9LVWFHbHdwckVNY0J2cmplMXZjYUVOMjJycGNlSFZSOEJSQV9ldzducExpSmh6SDJOcTlRZTQtcDdmaW93TEVxUmlvNkVjU1U5VXIwcXVxNXFnaFkxTm1PWmYwcllnVFc3eE9jUG5ZSl82enZwd2lPUUozY0h6c3FDYVpqaUUyZmdlUjN6ZHMtNXVJNFU?oc=5",
+     "source": "Mexico Business News",
+     "date": "2026-11-27T22:10:09.000Z"
     },
     {
-     "title": "Daily headlines: Brazil's next move on new US tariffs",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSXdaRU5IdGtSMEVDR2piNHZ4b2wxckNpZENPV0J2cVZMMXhGUm4tc21OYXV3SGZvblAyMGU2bFJ0Q0RuWGZ6SlZUU2tZUE50aFRpTXdLc3NxOUxmRGVMSVY4Y2J0a3lPVXlHWnRIanl2MVlTYnB0b09odExpbzh6anBUel9TOEtOckNfaTJscw?oc=5",
-     "source": "BNamericas",
-     "date": "2026-11-27T14:03:45.000Z"
+     "title": "New US Tariffs Could Raise Console Prices for PS5, Xbox, and Nintendo Switch 2",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kdC1CaWVFbk1fTURBdjdRdll2VW9xekZwWHFvZDYwTkFHQ012SHFUVjRINnJSY3VQUFVEUG9MTXRjVkRlZU9mZEphV2xmbGpmbHh2TkotTWZRcl9KNU5TYTNTdzJWckxmYXA5SlZ3?oc=5",
+     "source": "ColombiaOne.com",
+     "date": "2026-11-27T21:39:56.000Z"
     },
     {
-     "title": "Trump doubles down on tariffs and Putinism",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRVBVTXhEVFRNOVJoYjNtT1RnNTVNbXpRZWVKM1dlWThQTU9VR3FZTnNGQ3NXbXFreGJZbzNVajU3NEU5eW04cm9oTHVCM2hWa1h5eU9adG0zbUhuOC1kVk00UUtnUk13MEp1RU5TQTBHNF9UejNDeDcwMlI0Ry1CUElEa1p3TGhEUXNJUXdEaEFJb2c3WC1wSkZRWkNYSjhVVmNfVmZQZw?oc=5",
-     "source": "Washington Examiner",
-     "date": "2026-11-27T14:01:24.000Z"
+     "title": "'When Will You Stand Up?' Mélanie Joly Challenges Conservatives Over Trump Tariffs",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTHNzOFRGc1pFYkVTWnA3blJ5MVdzUHV3a3Z2OTJZR0tmYlpVSTVjdDNOR0xTazNxYWp0N3lhWHpSYnFlRUR3bVFBR3FNYTMtaTJ4eWIzb002T2YteUpFMmRiNlBBZUdUblQ5RVFFbVVQZjJVLW1BeGg4Sl9aYVF2dl84U3lsMTZsR25XeWFudklYV3IzbXNnVGUzOUZVYXRXWTFuWHVaV0F4STFHREMya1Q2TmkyQnJ6Y2Q1UXBfLWQwV2VpeDlBZjdpTW5XUEJ6RjQ1Zy04LWRPa3pFYTBmQWJzOUVFN1E2WXBTX2RFbGbSAfYBQVVfeXFMTWFNV05KTFA2V0lKR0lTTkI0RkluWHFOQWZ4Smc1bnJCVHpQRlZQZlRncmdJTkhtY1NWR3J4anBuX2Z6WXVwZHFXRjU4QVlJcjY3bXo5X3c2b01hN0M5cEZaNVNmcjNnWFJHMkpCQ3l0ampNX1pDeGRTUVdfTHppY2hJZUJ0MVF4bEoyNXFnNjlJODVBZ3VmOThjbTY3ZmZPamdwM2NMZXJ6VmlfZ21UdVdtYjNmZ3RTNkVHQnhXc0h6TjB5TWw2MXJiU2dlSE8xVFhIUUp1WGtEbjkxRWxJMUNfVkFhU1BRSjNCVHd3TGJBNmgyQW1B?oc=5",
+     "source": "The Times of India",
+     "date": "2026-11-27T21:32:03.000Z"
     }
    ],
    "spike": false
@@ -551,40 +543,40 @@
    "newsStale": true,
    "headlines": [
     {
-     "title": "Europe preparing for war with Russia, demanding truce in Ukraine: Russian FM Lavrov says US displaying more",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPaHpqMEhzNE92Y2RzdjhybGFPdlkzc09sMHV1RFVvd3h5bHZNcEswUEtkM3FQd2tFcTd3LTctQXl1aWM4NWwzZkNZWHRmTWtXV3UzZUt1cTZabkV1ak5QSnFod0d3QW5fNTV6ZjRaU25NQnVLdTVjVmJpbGRUS3J6VllKMHNZMnlaLXU4VTYwanp4MzVtYzB2SGhaYmtrWm9xNU50cnRpWWRtalZRdkhrYXZLaDI0SjkxOTZPV2FYUTg4VFpKdjNhR2ctY25haGlyS3ZUN3VBSlJYWXhKTjBRdFFsQWlJclA2dElZelNNWldKcGlNT3h3bWI0TGNPTlU?oc=5",
-     "source": "Big News Network.com",
-     "date": "2026-11-27T14:20:00.000Z"
-    },
-    {
-     "title": "A Guide to Major U.S. Sanctions Imposed During Trump’s Second Term",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVVN0LXVRSlBzd1RLaHY4MzFCYmc4ZXA3R09rdWhaVy1wVy1seS1UVDhxd1RLWnkxYmJPT2JPV2h4RkhJSVB6R19oQW9GeUtfRU5KR3Z4d2MwVE9JQjRlMWlKdTRfRnU5MzMzaTFPb1llbHBuZ3ppalJjOUtjRzA5Q085NUtfM0cyLThrTVBnSURDMmZ4NEc1Yg?oc=5",
-     "source": "Council on Foreign Relations",
-     "date": "2026-11-27T14:00:00.000Z"
-    },
-    {
-     "title": "RBI Deputy Governor Urges Banks To Expedite Credit Sanctions To Msmes",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR244TW1vREZzekFxZXc0NnpTdktfTzFZLWgtMEhnRkp6TmJvSG9TZWR3OXhFa094Y0FmTnc5cHZPNjVvZW5SeHFKeUFnSXdjWmhkR2I4SDNqbnN3cUFJYUFxNUsyd3V4aTJRbWtuc19TOFVNSGtaNThSY0N3SUpreVVQWTZmRjJLTld0S1VzV1RhUVB4WU5YSVQ2NGJjWHVl?oc=5",
-     "source": "Menafn",
-     "date": "2026-11-27T13:30:18.000Z"
-    },
-    {
-     "title": "𝐊𝐞𝐧𝐲𝐚 𝐚𝐧𝐝 𝐙𝐢𝐦𝐛𝐚𝐛𝐰𝐞 𝐬𝐞𝐞𝐤 𝐧𝐞𝐰 𝐭𝐫𝐚𝐝𝐞, 𝐣𝐨𝐛𝐬 𝐚𝐧𝐝 𝐢𝐧𝐯𝐞𝐬𝐭𝐦𝐞𝐧𝐭 𝐨𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐢𝐞𝐬 𝐚𝐬 𝐏𝐫𝐞𝐬𝐢𝐝𝐞𝐧𝐭 𝐌𝐧𝐚𝐧𝐠𝐚𝐠𝐰𝐚 𝐚𝐫𝐫𝐢𝐯𝐞𝐬 𝐟𝐨𝐫 𝐚 𝐬𝐭𝐚𝐭𝐞 𝐯𝐢𝐬𝐢𝐭 Kenya and Zimbabwe are seeking to translate their longstanding diplomatic relatio",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQal91LTQtaERfOGFVXzZtdXg1alFONVpQZlBVOENaMkZ4aS04RS05RmEzSnlNSDc2Q2J1WEpRRThKVE40UFFPRHc3aVlHT3dYeDFHS3VjVjdBcTRwMnJNRTE5M2gtZXhUVWowajVLZWJxZTR0WE5RWllRT3pKS0xuX2w1ZU5oUl9SWE5ydzFrVFhDRmVxVGxxT1NLeDA1c2ExNHdTR1N5WWl6eExVamQ4THU1bUI1TDdPVzNjR2tzU2EwU2NZTHpmeXRka1FSRVozelpXbFBpWFJGeGJvZHRj?oc=5",
+     "title": "This is so true.",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLUJhMGJZaVFuNUFVWjZ5WUdJMWozek5uNGlmdlBfRW04UFMwSXZSSjU0dXUxSDFKMVh5YXB1eFlYM3JIMWw2SHhkalhRc0VCWGF2bHVISFRTT2tra2hfWWJQSHdyRUVPWXpOOEdjSmc3WGllVzhmWE4zSV9hUkFCNHFNYTNsUFNPV3FPTw?oc=5",
      "source": "Facebook",
-     "date": "2026-11-27T13:27:13.000Z"
+     "date": "2026-11-27T23:00:09.000Z"
     },
     {
-     "title": "Iran Has Sufficient Foreign Currency Banknote Reserves, Ready to Intervene in Market",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaVJfaVB5ODFTUnJpSklhZWFXRWJMN0VlVlh6NVoxdV8zUFVHWXJpamNsMUhteVdRdmY3SFk3ZlZzSUl3RElxN3JDTUZHSHNINl9VYW5OM1lORkNoYVBDZUc5NUFvM3BiLURpUWdXUVFtLWZ6Mm1ZTGtWQTFBVUZFbThOMkNrTHFCMXM0dUZHRmdCbkdLczdsNmk2QnNYRHF6b2RMVFktOA?oc=5",
-     "source": "WANA News Agency",
-     "date": "2026-11-27T12:51:14.000Z"
+     "title": "Trump Isn’t Messing Around: His Blockade Has Cost Iran an Estimated $6 Billion in Oil Revenue and Tehran Is Now Rationing Electricity",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORk0xajdONE5sOXFSWVk2a29hS2RMT094bmF2WWtYMjdPYWJvM1pBd2ZiUDZYN3AzSm1EU2owR2Z4NUVhcHNxUXZNc0F3MURwMHJtVnZaSEVrNnpsTmdCYjh1Y0FwY2U2bmNTYTdEWmwwUnFKbkJlOG1SaWlwelhtRHJ0Vm43UEpPRHNZSVpVbVN6ZWFpWnFjRDRJOFZBRDVFdldvOE42eFNHdjg5TW11YTdGZExMOGd2R3pfTzZaajVjbmYya3dPbk1tTUhFZ1lCNmpvaDl3TThHQVpCVDEwaml2Q1JKQmRuWm81aGRzTUw5VHdDdE5Tem1jSQ?oc=5",
+     "source": "National Security Journal",
+     "date": "2026-11-27T22:58:58.000Z"
     },
     {
-     "title": "Ruto calls for lifting of Zimbabwe sanctions as seven MoUs signed",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSTRkcE4tb2JkbnJpbktZQ0pvYV96ZkN4UjNab0FxSUptb1VXWjE5blY5SXJPMVRiMWZCUjZRV0F1TTZrby1OMGRMaGJtVEVWTzYzQlhHdE42WGVYekdyaTRNTXdNUXRkdmpFRE5ucktmcTl3c19yeU9UdmZLQWtyUFJJYm1UbGVzQTczUHJsT2lOUGRyUm9kVnUyVFZLNDAwLWFiQ21mQ0Y0QQ?oc=5",
-     "source": "Daily Nation",
-     "date": "2026-11-27T12:24:27.000Z"
+     "title": "Zimbabwe, Kenya elevate ties to boost trade",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EZ1pqd1VZaGhCa1V6Vnlmem84ZDAzcmxScW83NS12YUtCWFNaSGlzU3BoU0dCQ1BVTkpINFBfbGFtRjdmTTBTX2VMU00tQkNxY1R0b01YcE5MNS1iMUlzaG9nU1hidGttUklTbnp6Z2Z1bjFTU0pGUnBTMDJqZzA?oc=5",
+     "source": "Herald.co.zw",
+     "date": "2026-11-27T22:57:21.000Z"
+    },
+    {
+     "title": "United States: Chinese Tech Giant Huawei and Subsidiaries Convicted of Sanctions Violations, Fraud, Conspiracy to Steal Trade Secrets, and Money Laundering",
+     "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQd0RDRHFFZkxuSlFzWlF5NFVuZDdTQTVVM1FISkdSOVhTTVUtblpwaS15dDdleEhLcjB6QkxtdHpJNlhqZkZHYU50b0hIV0d1OTFLdzh2TlF4c2pUS0V4ZnUzWVNIZ0VSbDhORHBCb1ZiUDBRdWszRlBzNGZiRHhvc3ZIUUxxaE1DSVFCLWZ0ckFmcXVpWkloX1FySnN0MHJYZUpQb2EydDRjYmhwWE1LWGE3VERGT21IOEN4OWJLMjR2VllwbWkwOG5lbkJlSUpqOHM4Q0xKeTNZek9yMUFrNWRNUTNhM2Y5WDN1ZkdwOExLcENrelA1OHduX2NRZGFITGd5T2prdXZaNFM3bi15NklLVmtEVENISUFObw?oc=5",
+     "source": "The St Kitts Nevis Observer",
+     "date": "2026-11-27T22:27:55.000Z"
+    },
+    {
+     "title": "Life on the blacklist: 'When sanctions hit, I realized we must be doing something right'",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQzVTdGZOTFVmcVlkYWR0VEFGdERfRXdtci0wRWNsU2N6MGpXTTh3YmVyY1puVDBxWUZpd1pDdUZxajE4ZWVWdXF0THJLb3k5SHlJNmx4X2l3VFBjUVRzakFfVE1GMFktcWJDdDBFdUVDN1FnbjlfTEJlTDd1T0duQ0FoVDRXcXB1MWVzUDl3bzczUS1jRUNNV1dWVFN4a3JrTEVLNHMtNmNSdGdMY0FURHBvdkYzaDZiZHN4bDZQdVdNQQ?oc=5",
+     "source": "Israel Hayom",
+     "date": "2026-11-27T21:19:54.000Z"
+    },
+    {
+     "title": "Iran Wants Negotiations Never To End",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUnFVbDRKakRFSzEwN3dFSmxkNTZSTUVwa3NnS2hKWS1WbE9uS2VHUldvUkIwWFlLaXJNQWpybG5yMHh5ZkxON2M2RzhkOGNFSFBJaDYwNFAybF9TYngtOVY0cWNmRjFCa0kwR2JaaVdQS1lfbVJmUDVETlE4c1lYM3FIZFA?oc=5",
+     "source": "The Media Line",
+     "date": "2026-11-27T20:52:01.000Z"
     }
    ],
    "spike": false
@@ -636,40 +628,40 @@
    "newsStale": true,
    "headlines": [
     {
-     "title": "European Council puts forward Pablo Hernández de Cos as next President of the European Central Bank",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZnRaRVBLOHUzbk95UUUzQ25IVDlfZ0MxbkludjB6Q01tbUdCRDJ4Q0VCZlFVaDgwUVFWejVRMEl6T002NExSVDBKZHdGQWdqYUdUUmlIRnRyYWFiLWdyOThBVHFQWEtpX05NLTR6Mm40Z01fMk5YbkZXRHNlendaSjdSMEFrTWl3dkR4b0VreW9tYzFVR251ZE1hTW5VUHV5c20wekJLaWsyaVMzS3hzN3J6bDhRc3kwc3VmYU5OeUV6VkNNREd2VTItVWUwZHVMSnp1ZGJlejJhWmc5LXZ5bDI2djROeGFNeDU4?oc=5",
-     "source": "PubAffairs Bruxelles",
-     "date": "2026-11-27T14:16:46.000Z"
+     "title": "Tall flagpoles, autocrats and an unsinkable dollar",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaWZSYWhvQW12LXJMbnhEY1ZiRnBTQ0J3anJ5T182UHViVUtvVFFMM2NfRi1qX2Q3VjY4MDRVSjIwdExwN0p2b0xTbmN5Z25SUHhmSmNKN2VnWnptTU5nS3B4dnVpMnU4MFdOOW0tZ3FtZUlEamMxYkZYUjEwUFhBb2s4ZTh0bVk?oc=5",
+     "source": "OMFIF",
+     "date": "2026-11-27T23:03:45.000Z"
     },
     {
-     "title": "E.U. leaders nominated Pablo Hernández de Cos as next ECB president",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FTGE2MzQ5R3BkNGxtMUt0QjdubXQ2XzE4ZlhrY1FiZ05VMWRKWm5VTGEwNF9iMXZBYUlhNXlTT2hycE5nY043OEcwd056MHo2aGRrcXpRNVNtYkd4MXZyMThiaVQyY3pHdVBLejR0Sl91aHFRd3o3aFctNlhkUQ?oc=5",
-     "source": "Quartz",
-     "date": "2026-11-27T13:52:43.000Z"
+     "title": "The Euro and More, in the Hands of Hernández de Cos",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT3oyUzV2WDJ2WHpCdE45dUljaFVEaDlEZU1wOU9kUERGTUpidlBsRkUxcjNxaWNMWVlpc25ldnpudUtTWDZKZGZ1N0drNU9jZnZ2WkJLN1cwbnE4ZGxKQVlqSV9SOXhocTkwWnpHcFRCV1BJZ0NIZXZJRmlfeEpsczRZMXJhejNTS2M0Rk10Z0lKU05oQjRTNTEzblZtN21MeGpORHNTTVNCMGpRX25yVHpqM1E3RmdYRXBpaGdMOU9rdw?oc=5",
+     "source": "Atalayar",
+     "date": "2026-11-27T22:51:57.000Z"
     },
     {
-     "title": "Brazil central bank tightens credit rules",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZkxJclRKWE1NeWoxMTZUbjRRbTRFcnFVQUNXbDRpcnpSemJwVVRxN1lEODZyMjZ5cUcxTGJSLVdfSmVIZE81b3ZkYXhsdzlkWHlablIwOVNLWVdRaURUNlVyTFJLQjgzZ0VLTWxveHpkaVdtUVlMZE91VndCbXo5dnNhQ2JGSEk0d3lWbXkxMERvQmRod3F4ZXFoTDN6ejBNT0J3?oc=5",
-     "source": "The Paypers",
-     "date": "2026-11-27T13:38:29.000Z"
+     "title": "Argentina’s BCRA leans on wallets to curb USDT-MEP trades",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TWDNjQ3dVMFNnLTVGM0pVRGxfWHJKVTFTdFgtajlUNVFTMHdDbnZNQVNqX3NtWlp5VHVkY1JGS2J5S1pYSUNXMkVaYU9WNUlsdzlXNnJBU1Q?oc=5",
+     "source": "Cryptonews.net",
+     "date": "2026-11-27T22:36:06.000Z"
     },
     {
-     "title": "Bank Indonesia Says Policy Focus on Stability, Inflation in 2027",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb0RJRE1YanZVdmlEZlVQbzJXTnNneldUS3F0ZW1yOXN6eGQzNF9RcGxIdXVlaEZLbXpnaEdYdUtWZmpNaFY3UHRBNk5CeWtwUURkSmFCOUNNN1FFWXRyNUlOdURyVHlhOUNmU0tWRlBRVjFPQWhDT2xMQjBjTjhGTzlCeWE4MWoyRWhBSnJTdUplY00zR180c2pnOEE3cHVadUZ3bXNJUlN5YlNETXR2ekliaFY?oc=5",
-     "source": "Bloomberg.com",
-     "date": "2026-11-27T13:31:11.000Z"
+     "title": "Brazil central bank to offer $2 billion in dollar auctions Monday",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVTdZNmx2NjZKZDNhZUxTQjV5OTVYUFpMRE5CWFcyd2ZEM0FRSzJyaWpPT214ZTRjb1FRWnV5SlZMUFh5Z2c4YW9zd1VOTHo5M244R3NWbHNXVmZXVXR6c2x3SlR4YW1FMV80bnN6T2FHMDMwQUVMdjNFc09MTVh3aU9GZlBReVRFYno0dnE1NjVMNm9LUzNZSFNmQnpMZjBhVlFMamtDWWZYRnNBOXFiN1pGNlM5YlpqQ3NWenl3?oc=5",
+     "source": "Investing.com",
+     "date": "2026-11-27T22:15:15.000Z"
     },
     {
-     "title": "France orders seizure of $40m in assets owned by ex-Lebanese bank chief Riad Salameh",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb1RyMW5zZUVLd0hpTVZ1alh6alNHQnhrQWgtVENpODd0OHJ1YVlUdFcyUWExWk1TV0JfNDBQY3J6d1cyWDJyOWlWZFVnd0pjMnZKRzVuR0YxMkNwRi12SHpLVlc0SU9yczJFY01xY2V0ZEE4MXkzYU9JRVFkdmZHWVljVUVGUzFYRFJEUWl1d0V4MkFkdkM0NkRNbVFPT2lCNjVoMEFVWV9EMUVhQzRMNWdiYTAxZkl2ZTV1ZzVKTmg2TUFQUXhGeGpNd2dWTldmWEFhS293?oc=5",
-     "source": "The National",
-     "date": "2026-11-27T13:18:45.000Z"
+     "title": "Europe has picked a new central bank chief. He’s in for a bumpy ride",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZWhESjgyZ21GcGVJQjczWUZ1ZnhMM2V1TlJYSW8tUWVnN3BKWXlGTWltUEdDcFptSEFkTWRXV3JHYUJqTzU0bTBmWVVsMDd3RmtNRU9DeGFfUWIxQjV6X0tFazE3T0g3X1BNZGQ2NEhZQkYyVXBKUkp6OUNZVlZ0RkJMTWtQb2lNS0E1ZzNHOTljbVFEWjJhcDY2Z2tDM2xuTlYxazQwZGZWRE5QUFZERk9sS2hoUjE2M2hXaXV5UHFWd3g5dTVJeGFETVNDeC1uUVpWbkk3SQ?oc=5",
+     "source": "BusinessDesk",
+     "date": "2026-11-27T22:02:09.000Z"
     },
     {
-     "title": "Indonesia central bank governor expects 2027 GDP growth of 5.2% to 6%",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNW5uYWdSZms4a0JEN0ZGXy1LRmFSUWtuRnZEVldhWGNtbzlQMDE4WVBGdXREeUdERk16RlMzSFhHSVpnTG5LRWJWbFVDRTFhU3ZYaXJrb2JOYU9JRWgweVlsNFZfcW5Wd1h2TGhvbHFCcWlzUU9JT0JDZU84VUhLVmpVWDQyRmlwbjRTNkhhRktIaDlNcy1yeUF5SzlUc1NYT3A4Sk5zYTd0VnA3NS1EdndaX0JZVUQyS25UQlN0dnpTenRzWF9ZRGQ3SEpiOEh6cW1r?oc=5",
-     "source": "TradingView",
-     "date": "2026-11-27T13:00:58.000Z"
+     "title": "Brazil central bank to offer $2 billion in dollar auctions Monday",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZjJ6ejRBMnRiaV8ya0VKamEwZlhZN2RRT09EaVNGTnI2WWdfMkhSbEs5Nkx5VHhRaUpqcFV3YVBkMTl0YkpsQUM3dHcwYjZTYWpsdENEa0RSOXZzeEUxNkV2ZlFfRmMzY1hUbjdoUWNqZG0tQVRtUV9sYWcwNGViNnVGSThYQl9wMHZDcGdlNThQeUcxRHBXSWZqaW9xbUl3V0tCX1diaGE5U2ROUUFxS2RwQkZDTUFkOFdqblpEX1FiZEk?oc=5",
+     "source": "Investing.com Australia",
+     "date": "2026-11-27T22:01:49.000Z"
     }
    ],
    "spike": false
@@ -721,40 +713,40 @@
    "newsStale": false,
    "headlines": [
     {
-     "title": "Senegal signs MoU with Presight to promote AI, data analytics and digital transformation",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc1dZa0lGU0R4MTJoQXIzRzd5SG9wTXg0VFp6LXcwNUl2ZG9sR2Jvb1VOYTBGVFVKWmMtcUlabWZZYmhLbjFvVEo5eDlrcFlQZVpKUlYwczZkal9yZ25XZkpLZ0xzVXpicThuZEdkRVJra3NpWUhONzU4UXAxcTFLVFlXdDVuc3M3b3pFMHlxUno3Q3ZGdGdFQ0hOTGluUUg3bHFnWGlSd2I1UHFxa2hQQmVvWlNJWnY2TzVINWtZVmJJTURP?oc=5",
-     "source": "Tech Review Africa",
-     "date": "2026-11-27T14:36:49.000Z"
+     "title": "Generative Artificial Intelligence Reshapes Academic Publishing and Strains Peer Review Integrity",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWWY4bFVUTDF2TFAxUlVHMjVEUUdncERGdUE4QWlfcnN2QW1KLVBEY3ZKcmlPcEZnRlZaYUhpTlloS3NmOEo5bjVBNmh0cHdmU0pZWEdNVVlnZ0d1REZfdVZpaVFER25tUXZYVVRDWGtzbEJRUEM2Qlg1eXAzQnZfU2paQ0JBS2hFYi1BQmF1Sms0ZTBnZk51NVR2b0NEOXdKaG54Zzg5bFZXdnZpdTZ3MlhHZGNPcXA0c1FyOE5WNA?oc=5",
+     "source": "Bioengineer.org",
+     "date": "2026-11-27T23:02:20.000Z"
     },
     {
-     "title": "Artificial Intelligence Helps UGA Researchers Transform Agriculture in Georgia",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaVNDaWRUWjdxU1d2SWR5T0l0Rmg1Vzd0bTZjV1FpY2JRSHN1SFlmTGJ1ME9meVNFQW1BUWhEZTJtSzRJNDJxWVFqams2NTVJN2VjRWYyYkl1XzFqSE11V1RCbmpyRmxVUEhuSGRKS0lBMGZNdGw3QmtXS0pGUkh2dDR4WmYyS25OREMyWTRLZ1RTcWRYTVk4eHp6c0IwOWdhZXh1RjdwdWZiRGNRN040?oc=5",
-     "source": "Morning Ag Clips",
-     "date": "2026-11-27T14:32:36.000Z"
+     "title": "L.A. Schools Block Google’s AI Overview Despite Company’s Latest AI Policy",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeHg2T09iaURrWGVzdFFYWkVvNHpLZFRocVNPNHBxQURWVmpiLWZzR3NZRnlwamdWNzJCWVRrWHV0bWR5eFdUZDd1LVdrMC1xZjNXQlREaUVrUGFwZ0xXQm1DYkZBelNTUjVsdEJGRXVMQlpoVm1kb1IxWV9tN2l0SjBxMGtVTloyQk54MEc3R01jNHBZS0M3WURYVmJpREtKSmc?oc=5",
+     "source": "LAmag",
+     "date": "2026-11-27T22:56:57.000Z"
     },
     {
-     "title": "AI has made its way into toy stores. How safe is this for kids?",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSVBva0hVcjZPd2dxSmlpdjhvSEtSNGpmTWY2TzVncW9idVdwajZjelVWX3lHNHRYb3pMQXlQS01qMDNyTUIteVBqVTdqZjB0ZDN4T1g1WHllNXI0Umo0Z0hxQ2pxbkMzMFl1U1dNOEFCOVlrV0lSVFVIdml3NFJvNFpqbE9CTFJRbmwxMlluYVQ0bWg0UlcyOGlsOTBNRXk4T3Jmdml2T3Q3TFYwQ1lFd3paX3dnWDJRN0N5NHZUNzlLQkdy0gHMAUFVX3lxTE5EMnZGN0tUS0k5ZEhDWW9WbXluNVBlb2lKLU5KVmVOdVIxaXFjLWlTdzdmUzdRakdSSEdManp5eGdkUUNuYVdWMW9zeUFNV1VyU3A2X2R6UjBfRXdiQnpxdlQyeXFDUi1kajFCV3o3aU5wcjdrMWFUZmx1eVdVa1JnU3daaFBVZmszQXRobVdXdGNEN0JHOFRQX2FjamxzOENGMF9qS21qUWtXa1FhU01ldVRuZjZWLXIzbzl6bnJfOXZhNjVaTFVLZ0lzWQ?oc=5",
-     "source": "NBC Boston",
-     "date": "2026-11-27T14:31:27.000Z"
+     "title": "Dungeons & Dragons maker will pass AI settlement money to authors",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdGd6WDY1bkpTekQ2aEtyZU82ck12OVJiVVNwWTZmUXFqQXhKRzM3ZWRyYVVaZlJCY0NtV3Q5OUJUUkJLZVVPSlluY2FVSlhlb1pGQWZpeFpjTHVwb19vR2NBTV83b1RNcjl6LWljQUhYZVltZXNUM3VNMGdGb0hUYkxHdHp1SHdIV2ttT21uRzJMczNVeEJDMllCLV8zZw?oc=5",
+     "source": "The Spokesman-Review",
+     "date": "2026-11-27T22:44:38.000Z"
     },
     {
-     "title": "Four universities co-host International Workshop on Technologies for AI Governance as Lingnan University plans an institute to track autonomous AI economic activities and its impact on financial markets",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUjZ4a1V4YUhFbzMzQlc4RUdoN1lZRHN4WkRHeGphclRVZ3pFaU80ZTVVdGoyMWJIbHRqME90c2RGQ3VrMzczS2cwWjBVSWhWX3NVcV9Sa2NYb1BXTTMxaW00S01RNTJtQ3ZsZXdVeTVhOU5OVFpfQzJlRUNjem5NZWI5aGhudVRxQkpLVzRkSFk4c0xWQnU2eHFZSVVDOTJfX0MwWnZWSC1GZTVLY05TOHhmVkVjVEZJR1NVcGhMMWcydw?oc=5",
-     "source": "Asia Research News |",
-     "date": "2026-11-27T14:27:21.000Z"
+     "title": "AI agents that shop for you are changing how retail advertising works",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX0NUMGVaTXRrNUprU3dpcC1FWnBWMU1SenFCbzFROEU3ZENITUcxRFFmc05iQTZIN1B5M2xxUUhkcVl0UVRRaGFEb2FwU19iRWxyc3EzRTZEcnpkY1JPbnAyUkVxOTQwczdVajhhYkRCaENmczBwUDdlMzFTeDhWN25wRVRyTGI3RUJYaGk3QThKOS1CS25oOWRTV1NQYVZwSkcwVTItU0k5NE1lZ3c?oc=5",
+     "source": "www.marketplace.org",
+     "date": "2026-11-27T22:41:16.000Z"
     },
     {
-     "title": "Côte d’Ivoire trains public sector leaders on artificial intelligence and digital transformation",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSDkxUGlJd1lZa281Z3ljb2VRLXU0MEdpLTdMdWlwZmlTOTZ6VUhXYTd3N0RsQVZUN21QbURBY1NXMzdndGszWEJQd2R5SG11Ym1pZ3FyXzF0Mk53S3JnVzZDU29TY1NmQW1kU1BIYmg3SzFrRTFZWXlCTE90SWxteWNnUWJycUh5ZmxoQmtUTmVDeDBpbHZ2NnJGSGw2YjAyNWZhRWJyZmZrWXVKZi1Sc2otTjVZYTRPcC1OY28wU2NCTzRFRWJNa3BEZnhZQTg?oc=5",
-     "source": "Tech Review Africa",
-     "date": "2026-11-27T14:26:47.000Z"
+     "title": "Marblism Brings AI Agents to Mexico’s SME Market",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONUtBVDZmaXYxWm9yQzFyVUZraFpnOHN6Qko0cGJzWTVwOTB6NTk0WGdSRnEtaEdkQU40SEExNlVSLS1QQmE0c19oaG5hX2o1bm1IbkNMOVdSc29zV3hPdGE4WThiX0pnaThzQ1V5eUsyQ0tYWHVlVUh1ZFRIZVVQY2p4NURmOUhNd29sUkVVeEZ3eVhV?oc=5",
+     "source": "Mexico Business News",
+     "date": "2026-11-27T22:41:08.000Z"
     },
     {
-     "title": "AI debt boom could push up funding costs for South Africa",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQal9uMDRBY3ZFcXJaZVBnQzFCOWUyMDltdXZoQ0YzWWJNZ2N6Z3F5YXdsY25fV2RGeVBzdWFMQWlpc2J1ZFhOaXVBZVpzNnhoTUtESEduaTV6b1RaQ1pQMHJZZHFnNmZ3ZkZuRndwVENucEU4cGRLb3hPRkhOYzJ0bjRMV2VVdzJxZEd1V2NSMUQwa1k0RTN3VGxweHdqVTNlSXpZR2hjOUZMc0dPbnJ2MWEwT09zdHFrWmhlVkFsUQ?oc=5",
-     "source": "Semafor",
-     "date": "2026-11-27T14:25:00.000Z"
+     "title": "Fully autonomous AI hits reality: Why 2027 could become the year of ‘graduated autonomy’",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS3F4MDBPRWtBQml2VGU4TVRjRHFBdHR6NzVxWVU5UFR3cTFCVUQ2Qm9vYzI1N211TjQ4Y2Y4MWtUZGRfelQ4ckwtaGlieTYzTG9nMVZmOFZ6d2pzMi0yeXhPMGxaQXZuZXdMeHJmemh0NnB3TS1qZ1dPS1BnNDdRTDhENHJvZThuVXdUVWZzVnRpNmdYallJckdSRFZJS0Q4ZlpsQXg1eFk4NEswc2psSk4zcDJKckN0bm1CLTd2TTZYZ2c?oc=5",
+     "source": "Digital Journal",
+     "date": "2026-11-27T22:08:16.000Z"
     }
    ],
    "spike": false
@@ -806,40 +798,40 @@
    "newsStale": true,
    "headlines": [
     {
-     "title": "Early voting for the December 12, 2026 Election begins Saturday, November 28! 🗳️🇺🇸 With THREE early voting locations across Iberville Parish, including our East and North Iberville satellite locations established under the Daigle Administration, we're maki",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVDRWSTUxMXJtODBqN1kxTENJS0lOMDB2UlZub2VzbEZkWEtTaGlTZmE4bFZNbk9rSkZITnpBNklPMWgxSU5XcGIxU1NtNTFmLUFDWlZtS3lkQTBld0Qtb08tbjRYdUFnSld0RWpxRjhMTTFLdnBUbzRLNU5KekllQmloNGh3c1VVMi1IRUFXMWRyM1hBblIyZjNEdXF4MlZBYlhIVmRGajhDbzhCNlZ0RTZiMXJ0czFraXFiakhwQXU3RFFyS3ktSktJc05MN1JYMU5OSTdvclZJZw?oc=5",
-     "source": "Facebook",
-     "date": "2026-11-27T14:05:13.000Z"
+     "title": "Column: Our ‘E pluribus unum’ election makes me grateful",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaDluTkxpNTVTcnY2ckRVZVRDTHozOTFIc0pnckNjY2E5NEpTTVZlR0I2RUpQZWVoSTJNbnlDYmtWcDRtdnBrQWtJMTlHR0Y1VENvUUw0X0l3UXJKSXJoMWhzYkpPUVA1S2xzaUkyX0VfLVZLSzQ5VmZQWEtHVFFYNEs5MkhVYk1DT1VfU1BmTjlhQlpzUmk2bg?oc=5",
+     "source": "The Virginian-Pilot",
+     "date": "2026-11-27T23:06:11.000Z"
     },
     {
-     "title": "Officials prepare ahead of Pass Christian School Board runoff election",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMVA3ZUJJeW5CSFNQc3RwZUtjb19iTHdiSWRmVnJRU1FYRks0VnlXN1hTWHdPRkcyTXpLeXpRNkRVVDd3clpWLVEyYUUyT2o5ejJaM0FuTVV4S1pxWFNGX2lQSGRsbm1VQ1BBcFpjQlVjX1B6MTh0X3pJNzR6T2tBNURXak53eDg1Q00wVjJyMlJoOHp2M3AwVW53?oc=5",
-     "source": "WXXV News 25",
-     "date": "2026-11-27T14:03:29.000Z"
+     "title": "Taipei’s mayoral election will not change Taiwan’s course",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM25rRFp0dm1wVjJBU09TOUtKNWJ2S1VockgxT1FYMWZTTlhITWNTSURXcms3X0U3T04ycmRlMU9OdUpKeEdyN1Y2Um01aUpaMjFfRUZoQzdsTXhGdWhVa1NHOWFWWS1iZHZZNlJ5VFNWMmlULU0yNzZxY2ltM2k3MjJITlgwX2Z2VHZpOFUwdmdBOHBvNEJ1Mg?oc=5",
+     "source": "East Asia Forum",
+     "date": "2026-11-27T23:05:09.000Z"
     },
     {
      "title": "Europe Braces for Election Season as Spain Votes",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdzhHbXl2MU9wWHo3eW1HTzNLN0V6SVJkb1VTM0VJXzNzMU9mdXZaRkJXRTZqZXlKOEhBM0NROGxZaXVuaWgwRU1TMFNVaGRIRU4xTUN6dEptUHpibXYtck1oelNqek95RVB4a2xxV0o3aFdnSWpkQTMtN3hWQjRRNkpFSW1QdHF2aFltbjl3X3NKMjhKNU9WM2RaaVE3UlctdGRyNg?oc=5",
      "source": "Bloomberg.com",
-     "date": "2026-11-27T14:00:01.000Z"
+     "date": "2026-11-27T23:01:34.000Z"
     },
     {
-     "title": "Serbia's student movement proposes a chemistry professor for presidency ahead of Dec. 27 ballot",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOWhBUm13MnBNSG1fYUc2SXpKY2ZCazhTek9fTmVPUDZxVUtOcl9RM1NYWkg3aXNnWXBubE0wR3RVV2RTNGtMV0k2TzI2T0U0WGxwTHUtWkFVVDB3ZFVWdzFwVHJ2RGNqWDdfbmRRUW54MFBxRGEwVHk0UW9IU1ZidTBXSFVqVEJyOFo5YzhsZjVVcEs0Um81SExtdlRIWWpFT2tvX2FiRHA5NTBpN1hlaVZrN1otZ3ZIZVBSN2Q0V0U0MDh5NE5RbzlmTEJGZEJ4Z0x2bEZFVkZjSzdQMnQzX1ZPT0E?oc=5",
+     "title": "Confused about who to vote for in the Victoria election? A guide to each party’s key policy promises",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNemJrS0JLYW85VHMwMlhGcjBNd0NZcXRsdGlUUFRjT05CQ1hxTUVRaEMyLTBrQV9xVEp5Y3pZc3o1eUh5bkd1MTZubUxaVWtsSzQ1eE8zRThOYVJYUV95Vy1PdXRGcjc3b09BaFJyeEprWGptdm9Wd29DaHkyMkdBRHR3WklMUEN3VWJPaGtuWHQ5U3BvR2QwWHhPOE5NNG9wTllkR3RmdWhrQWRSeWpwdEpwb3dyX3hpZ3VqWmotMWdfNkJKOVd3SnByTnVBa0RKT2lDNDN4aGxMMXIyU1RteTNab2g3d091aHhwak4wVHlXMDVLOVRlVmgtZjBEMFBNN1FXZ0tNOA?oc=5",
+     "source": "The Guardian",
+     "date": "2026-11-27T22:56:57.000Z"
+    },
+    {
+     "title": "NZ faces deadlock with election results",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORlZSbWd3QzBWWkM5c01VWkhrSG1HMHNZaW9iTG9Wd1NUVUl4R19uNHpGTmJ3QlJ0WXRsTHJHeUZfV1UxbExJUXJhQWJIMm8yMl82a0d6UzJXendXSl9xTG1OQzNxMzhOYS1ydDBvYnZSRGdGMFpDMWlwdW5Gckd2NFpn?oc=5",
+     "source": "China Daily Global Edition",
+     "date": "2026-11-27T22:50:25.000Z"
+    },
+    {
+     "title": "Political novice turns kingmaker after New Zealand’s deadlocked election",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTUQ1YzJiOVpUQWczN2lmR3E0aGRNSXFuMWtkVUY2c2NrQWo5ai1XX3B4M2hLazYyaWJhLUl0V1pqRTNHaW5JUm9vU3YtMjJwdjNlV1pGZURab0ZsRjlfbUhMOV9kemw4eVBFUkxuNjNBcjczQWE0X3N3Y3JSbDUteEx6djZWUWhGalNXOENKRmdwN3RxSkNmdngtUFhaRzk2STNPV2NNYlZReVc5Y0M2X19ONmd1dw?oc=5",
      "source": "The Washington Post",
-     "date": "2026-11-27T13:54:54.000Z"
-    },
-    {
-     "title": "Spain Election 2026: Where the Main Political Parties Stand on Key Issues",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU2lHN29paEE2Y3pUaHhocVBCYVNiR21pNEFaQ3hlbUtEUDdOVHpKVktDV2xodXVybFhiZTBDazFtTF9kYkljUGJjck5NSGRaeFFDUUtsOHRrc3Q0MEZ1WGhIajRocmoxYjRzLVVKMnU4N1hrRlh0VC1aOVpWaG5hc0hTT2Z1eXVEWGQydDhNM3JQcE94NC1FNWhUR2RrNk1rbkJ3U2VkNUg5TnF1ekc1WQ?oc=5",
-     "source": "Modern Diplomacy",
-     "date": "2026-11-27T13:39:19.000Z"
-    },
-    {
-     "title": "The Gambia election: Can Barrow secure a third term?",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcTJsNE9iQ1BQb0liaEZrVnFpZE5ndm1WOWxOVVVQa2VLZ3MyZ3F0dDRqOG1JbWN3S1JjcGN4QXdNU3RsUS1CVW5FMUIxTWlnQkVIV3dyb0dGQXNhNTd5cTg4MFZWNUcydmVRUC1iSG05ZGFMcTFsMmRaUFFzcnE1Q1I5bGFlUjFNV0M00gGLAUFVX3lxTE14S2FmWkRZeWhpTEFYNDloY2k4SjM5aDZVSThVVmpkaWNRcjRvUVhybnMtM0RvdkFqdVlsekVxV1lRNjRhdGZsaWJRQjhONVFpVlNHdmltMFJhU01aNHVrTGRlcDdfbnRSOWhMMVRRM3p2Q3lSSjU3MnV3aEV0cEFpVkN4akJic0Z6eHM?oc=5",
-     "source": "DW.com",
-     "date": "2026-11-27T13:36:59.000Z"
+     "date": "2026-11-27T22:46:54.000Z"
     }
    ],
    "spike": false
@@ -891,40 +883,40 @@
    "newsStale": true,
    "headlines": [
     {
-     "title": "Oil Isn't Balanced, It's Rerouted: Chokepoints, California, the East Coast and the Case for Home-Grown Energy",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTmFxTGp0eldFRXFQSGVWT0FEaFRuOWp0ZWhvXzRHeWxGTnozdGgydTdFZmdaZXBuWUFYN2o1Tmtra2hjQ3JnMk5RN2VlT2l3cGVRNk0tWEtWekF1SnNWUVpsTWJGSHNXR05xekphaWVGdEV6d2lvYnYwOEFXNG1td1FQbGFYN21LTXJzSVFCWFFPLW1PTTZ2QmxXXzBEZkd6WHFyQm1teDNpcVZxTnlOU0dLX2ZwUFZGRXNSNHQ5NTVxWHJKNGpHN2l4TnZsR1hkZkpycmRNcw?oc=5",
-     "source": "Energy News Beat",
-     "date": "2026-11-27T14:31:59.000Z"
+     "title": "Oil prices fall despite Middle East supply concerns",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONERZU0l0OHUxenF6d3BIdDdJTTl6Zk1ITkgzSUtIT2gyWFpPUXR6WlloM0w1TGFxc0RwZ0hCSVFCLTItcGtpaDdzaGRiQUZ2c1VPcDFSMm0tdVdfMHhQWHlNblcyUVB1cGZFVEx0elROQklJTVlQU0RKZTI2NzVJLXVYZ2QtczRh0gGcAUFVX3lxTE5OQ0R1eUhSc21uTFl1SkpJRUpEQUpSN3VwSDR0Q3ZicElCcUdCbU1jV21nY2pfMXJJbGVUNHpSZzYwc3N1WXRFWEh1ejVDbGd3eGpENktPd2ZDV0RoSE1MV29fYkpFTUg0V3JSLXN1Ym1XUVhZcWthVWVtcEZpbkhKR2NEMzE2dTgwY0VMRlIzV1IzNVNrX0hacDlGNg?oc=5",
+     "source": "Chosunbiz",
+     "date": "2026-11-27T22:35:00.000Z"
     },
     {
-     "title": "Americas Market Update 27 Nov",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11X0xlNHpPVHYtWmtYRDFhRDRETmIxRFJDNTI2eHU0NmRVb2dDWnFQczI1cFc1aTFwUVZCV3NJcnlaQlgtUVNsSXQ1d25PNUIwSlFQTXUwUlZhS19ab2RmVXgxZWZnT01vclhvay1scTVCd1k?oc=5",
-     "source": "www.engine.online",
-     "date": "2026-11-27T14:29:58.000Z"
+     "title": "European gas prices stay high as storage sinks to a record low for the date",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQjRhclRwMTh4UWtkbEtpcjNwcjdYUV96M0ltUllXZkk3WHN4M1FHbVFmaEVsWE1QeGh3MW1UUkdaX3hXRkdsR0NPY1BuTnV6VmtpY05XNlBGb29IQzlEYUJrY3FwUjZPY1pvUTM0TU9rNlhfdHlWYzZYeUdkdXR2N1NaRWVBWjNRYTRyUGtnMTFIbDMzQUdrb0VrTHY5TWM0VVdRNXdR?oc=5",
+     "source": "Startup Fortune",
+     "date": "2026-11-27T21:32:52.000Z"
     },
     {
-     "title": "Middle East attacks send oil prices rising again",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pWERQc1hkMjdnNVdlT2laUE80aXpVRV9GV3o5ZE9lb0lKbng3WFRTUGp0X3c2eG1hSmVkSkFSUUcwWEx3REFpUmdweERDY0ZITkR5cmFaS094dHB6SjFsLU5DbDUzM2JEVmFjX2habw?oc=5",
-     "source": "CNN",
-     "date": "2026-11-27T14:16:48.000Z"
+     "title": "Despite continuing to drop, Thanksgiving Day gas prices still set record high for San Diego County",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPS1g4UEUyeFplMEJPTGkzYk5HcTd5SXhyVmhCTjBibGJrZDYtRE1xNjRuWE1JS3NRRTh4bnVxVXlKV3oyaW1XUDhRNUVFV1ZyNnFMdTNLMGppQWlkQ0o0MHkxdl9tcUg1VGc0eEhBdW45Tms1ZlhubWhMcHd4bDYtZkV4X0hMWC1sSzdiUFY3WFFmcGptWW12Sm9GQUEyUVV5czRhVFN3U21Obkpfa0RXVVdGdUZaZHJmWGk2QUh3bGZEdHBPa3ZqNUpVRUpOdUhxVWlrcjNrV09pVVl3cnR4QVo3bldJb1k?oc=5",
+     "source": "Times of San Diego",
+     "date": "2026-11-27T21:30:00.000Z"
     },
     {
-     "title": "BofA Keeps 2027 Oil & Gas View as Geopolitics Dominate",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObDlTV2xYWk8wWG91SVVlNDdDUXBDOTJKTW9pZ3JzaG5BMzJjeEtLb2liVnc5bHN3eVdUUF9pOXBaU1h6eldVNi1sR3lYMFg5TDJ2NnF5X1RBTnRyY3NPb1UtSElxMVU3aWVmMm5lMDNIQk52UzdVUDNNdzRvTWVadUF3MmpyVmtjUnJCWVozbXdzRUZBc2VIZg?oc=5",
-     "source": "TradingPedia",
-     "date": "2026-11-27T13:56:54.000Z"
+     "title": "Despite recent declines, diesel prices remain elevated in Washington",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVDNqS0QxMDdkRFhfUTRtTWNQVFNWSmdYNk9nNHF0OU8yajA5ZlhLT0kyRExRaVduNmR0LWhQcGY1OFhwaG0xdXUybEVxYmp3RUNyZ1VNV19OdEJMUFB2blNmZ1JFMHlZZVpteEliN3owUy1NZDNXRno2QXhyZ2RQRmI5dUhyLTBLV0JWWXJfRDdBNC1KWGJJWk1oZXltNURqNGw2TkFFTEZPU0ctWVdka2Jkc0VYLUl4?oc=5",
+     "source": "Hagadone News Network",
+     "date": "2026-11-27T21:17:00.000Z"
     },
     {
-     "title": "Oil prices rise as attacks on shipping and energy infrastructure raise supply concerns",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa2ktYlBfU3YzWkJRM3JSTWh2ZGpQX0Z2X3Vtdk5fSGVlTTdDSVFPelV6NXZlSkJ4aDNuTVVhVmJpSjUyclNhTXIzbHlNNl92WlVkbzhrQ2VTY2NZb2pmMUdlaDkxbnVPUkZOTWJ1cm1IQ08zSTRJaTQyd0lVeWJPeEo2bzhyVEtfbjVYcnQzcGN2R0dyY0llOE00LWJaai1WWko5Y2NMd2g2ZG5QVmVoenZXQkc0bHlwcExBWm1sb0VDQ0h2MFdF?oc=5",
-     "source": "GBC Ghana Online",
-     "date": "2026-11-27T13:56:18.000Z"
+     "title": "Oil Swings with Rising ME Attacks in Focus",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQkNNSE5WMWtjMGlZa3dYNFNpdmR2eTRtZy1lSkdETFZhT1FmVXhqOThWcXB4aF9DaUx4ZGUxVEhfNW1Ic1RJaEo0eXFWM3pVMjBvSDlELXBGZGtoRjRMQ2FmbDZSSGl2RnBMV0hTU0hPajlCVGVkcFR3OGtjX2d1X1MwLVVWN0tkQzRHdTl3eURKbGxZUmJJY25hOFA5SEZ1VFlYYTVMTQ?oc=5",
+     "source": "Rigzone",
+     "date": "2026-11-27T21:16:00.000Z"
     },
     {
-     "title": "THINK Ahead: The ECB’s new boss has timing on his side",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTEEtUl84UXc1aWgxWFA0cC01clJPNEdSclpUd0YxbnRXbFVvbFFQQ2VJeFF1NjA5UUs0Z3d6US1XNm93dDFhVGJibmxveUNwWUxCS3ZTSUpIdk1mc2hHQm5ZVU9pNWIxbEM4ZjBXTTVkNXhJQ0lQYWVNemtldllBZnNiQWlONkw2V2ZQNA?oc=5",
-     "source": "ing think",
-     "date": "2026-11-27T13:44:45.000Z"
+     "title": "Alberta Raises Projected Surplus to $6B as Oil Surges",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRzFIOE5ZNXROTktkcHcwdXVNT0N0bmw5N0FzbElwMjFsYWxjSFNJaWhZQ2kzT2FDTGRnWTQwT09hSnMtREVDRzZDU1FwNUFwa1FJR1I0NnJHTU9nNzZPN3NQZ0VYUlh3VnVMTEtNdkZ0Wk5nbHVxbU5YWTA1YUxhMU0tN19EbGxoS3BOaWRHbzd5eDFUQ3FxM0ZMNkFMMnRfeDJWUTlEMGFKdzk2LVN0Z3dsNTQ?oc=5",
+     "source": "Rigzone",
+     "date": "2026-11-27T21:00:00.000Z"
     }
    ],
    "spike": false
