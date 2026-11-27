@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T22:32:05.067Z",
+ "generatedAt": "2026-11-27T04:44:23.754Z",
  "status": {
   "markets": "ok",
   "world": "ok",
@@ -54,52 +54,178 @@
   {
    "symbol": "CL=F",
    "name": "WTI crude",
-   "price": 84.91,
-   "changePct": 1.47,
-   "time": "2026-11-26T19:29:50.000Z"
+   "price": 85.75,
+   "changePct": 2.47,
+   "time": "2026-11-27T04:34:13.000Z"
   },
   {
    "symbol": "BZ=F",
    "name": "Brent",
-   "price": 91.73,
-   "changePct": -3.04,
-   "time": "2026-11-26T19:29:29.000Z"
+   "price": 92.26,
+   "changePct": -2.48,
+   "time": "2026-11-27T04:32:43.000Z"
   },
   {
    "symbol": "GC=F",
    "name": "Gold",
-   "price": 3593.4,
-   "changePct": 1.63,
-   "time": "2026-11-26T19:29:59.000Z"
+   "price": 3659.7,
+   "changePct": 3.5,
+   "time": "2026-11-27T04:34:20.000Z"
   },
   {
    "symbol": "SI=F",
    "name": "Silver",
-   "price": 41.75,
-   "changePct": 4.24,
-   "time": "2026-11-26T19:29:55.000Z"
+   "price": 43.675,
+   "changePct": 9.05,
+   "time": "2026-11-27T04:34:15.000Z"
   },
   {
    "symbol": "BTC-USD",
    "name": "Bitcoin",
-   "price": 60502.44,
-   "changePct": 0.21,
-   "time": "2026-11-26T22:32:03.000Z"
+   "price": 61427.42,
+   "changePct": 1.74,
+   "time": "2026-11-27T04:44:15.000Z"
   },
   {
    "symbol": "ETH-USD",
    "name": "Ethereum",
-   "price": 1695.06,
-   "changePct": 0.25,
-   "time": "2026-11-26T22:32:05.000Z"
+   "price": 1734.36,
+   "changePct": 2.58,
+   "time": "2026-11-27T04:44:22.000Z"
   }
  ],
  "world": [
   {
-   "title": "Report: CIA tortured more people with waterboarding than US agency admitted",
-   "url": "https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss",
+   "title": "Thanksgiving storms leave nearly a million without power across the US",
+   "url": "https://www.aljazeera.com/news/2026/11/27/thanksgiving-storms-leave-nearly-a-million-without-power-across-the-us?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-11-26T22:06:54.000Z"
+   "date": "2026-11-27T04:34:43.000Z"
+  },
+  {
+   "title": "At least 13 Niger soldiers killed in Sanam armed attack",
+   "url": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-27T04:06:52.000Z"
+  },
+  {
+   "title": "Trump downplays Russia, China support for Iran during talks with US troops",
+   "url": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-27T03:49:08.000Z"
+  },
+  {
+   "title": "Asian stock markets rise after earlier tech rout",
+   "url": "https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-27T03:42:16.000Z"
+  },
+  {
+   "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+   "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "date": "2026-11-27T03:28:15.000Z"
+  },
+  {
+   "title": "Spain and Morocco under-17 stars target World Cup 2030",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spain-and-morocco-under-17-stars-target-world-cup-2030?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-27T02:58:48.000Z"
+  },
+  {
+   "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
+   "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-27T02:14:25.000Z"
+  },
+  {
+   "title": "Trump says the US has ‘close to 50%’ of world’s oil",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/trump-says-the-us-has-close-to-50-of-worlds-oil?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-27T01:44:02.000Z"
+  },
+  {
+   "title": "Clashes halt match as Turkiye football fans raise Palestinian flags",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/clashes-halt-match-as-turkiye-football-fans-raise-palestinian-flags?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-27T01:36:23.000Z"
+  },
+  {
+   "title": "Global news agency AFP reports cyberattack, shuts down content platform",
+   "url": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-27T01:07:44.000Z"
+  },
+  {
+   "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+   "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "date": "2026-11-27T00:52:11.000Z"
+  },
+  {
+   "title": "Inside Ukraine’s power crisis amid its war with Russia",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/inside-ukraines-power-crisis-amid-its-war-with-russia?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-27T00:46:19.000Z"
+  },
+  {
+   "title": "America’s Thanksgiving holiday seen through different eyes",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/americas-thanksgiving-holiday-seen-through-different-eyes?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-27T00:41:28.000Z"
+  },
+  {
+   "title": "Argentina bars Central Bank from printing money to fund government spending",
+   "url": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-27T00:11:16.000Z"
+  },
+  {
+   "title": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-27T00:00:00.000Z"
+  },
+  {
+   "title": "Georgian police clash with Turkiye’s Besiktas fans over Palestinian flag",
+   "url": "https://www.aljazeera.com/sports/2026/11/26/georgian-police-clash-with-turkiyes-besiktas-fans-over-palestinian-flag?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-26T23:37:17.000Z"
+  },
+  {
+   "title": "Israeli settlers damage Palestinian family’s homes in West Bank attack",
+   "url": "https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-26T23:07:36.000Z"
+  },
+  {
+   "title": "Black Friday hype stems from a desire 'to be part of a collective event', expert says",
+   "url": "https://www.france24.com/en/video/20261126-black-friday-hype-stems-from-a-desire-to-be-part-of-a-collective-event-expert-says",
+   "source": "France 24",
+   "date": "2026-11-26T22:54:11.000Z"
+  },
+  {
+   "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+   "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "date": "2026-11-26T22:49:27.000Z"
+  },
+  {
+   "title": "RN’s antisemitic past ‘coming back to haunt them’: Will Le Pen ‘distance herself’ from Bardella?",
+   "url": "https://www.france24.com/en/rn-s-antisemitic-past-coming-back-to-haunt-them-will-le-pen-distance-herself-from-bardella",
+   "source": "France 24",
+   "date": "2026-11-26T22:25:03.000Z"
+  },
+  {
+   "title": "Is Spain's snap election being rigged? Debunking viral claims",
+   "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261126-is-spain-s-snap-election-being-rigged-debunking-viral-claims",
+   "source": "France 24",
+   "date": "2026-11-26T22:17:06.000Z"
+  },
+  {
+   "title": "'Citizens angry with the establishment' as Spain heads to the polls",
+   "url": "https://www.france24.com/en/tv-shows/a-propos/20261126-citizens-angry-with-the-establishment-as-spain-heads-to-the-polls",
+   "source": "France 24",
+   "date": "2026-11-26T22:16:50.000Z"
   },
   {
    "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
@@ -132,18 +258,6 @@
    "date": "2026-11-26T21:09:22.000Z"
   },
   {
-   "title": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
-   "url": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-26T21:08:44.000Z"
-  },
-  {
-   "title": "Bangladesh garment workers clash with police over low wages",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/bangladesh-garment-workers-clash-with-police-over-low-wages?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-26T21:04:39.000Z"
-  },
-  {
    "title": "Sanchez's big gamble: Will Spain swing from Socialists to hard right?",
    "url": "https://www.france24.com/en/tv-shows/the-debate/20261126-sanchez-s-big-gamble-will-spain-swing-from-socialists-to-hard-right",
    "source": "France 24",
@@ -160,30 +274,6 @@
    "url": "https://www.france24.com/en/hamas-weighs-response-after-israel-kills-10-people-in-gaza",
    "source": "France 24",
    "date": "2026-11-26T20:35:23.000Z"
-  },
-  {
-   "title": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations",
-   "url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-26T20:34:34.000Z"
-  },
-  {
-   "title": "Indian politician facing murder charges hosts 400,000-guest wedding",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_indian-politician-facing-murder-charges-wedding-261126?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-26T20:32:43.000Z"
-  },
-  {
-   "title": "Mexico seeks US talks about suspected SpaceX debris",
-   "url": "https://www.aljazeera.com/news/2026/11/26/mexico-seeks-us-talks-about-suspected-spacex-debris?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-26T20:31:50.000Z"
-  },
-  {
-   "title": "Musk pledges two SpaceX shares for every US child",
-   "url": "https://www.aljazeera.com/economy/2026/11/26/musk-pledges-two-spacex-shares-for-every-us-child?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-26T20:19:22.000Z"
   },
   {
    "title": "Trump urges Putin to end 'military aggression' in Europe",
@@ -210,40 +300,10 @@
    "date": "2026-11-26T19:49:15.000Z"
   },
   {
-   "title": "Peru burns more than 10 tonnes of seized drugs",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/peru-burns-more-than-10-tonnes-of-seized-drugs?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-26T19:44:05.000Z"
-  },
-  {
    "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
    "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
    "source": "BBC",
    "date": "2026-11-26T19:26:16.000Z"
-  },
-  {
-   "title": "Why are winter rains forcing Palestinians in Gaza to flee again?",
-   "url": "https://www.aljazeera.com/news/2026/11/26/why-are-winter-rains-forcing-palestinians-in-gaza-to-flee-again?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-26T19:19:12.000Z"
-  },
-  {
-   "title": "Judge strikes down Trump’s latest restrictions on US birthright citizenship",
-   "url": "https://www.aljazeera.com/news/2026/11/26/judge-strikes-down-trumps-latest-restrictions-on-us-birthright-citizenship?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-26T19:09:39.000Z"
-  },
-  {
-   "title": "Psychiatric care under scrutiny after abuse scandals in Croatia and Bosnia",
-   "url": "https://www.aljazeera.com/news/2026/11/26/behind-the-doors-of-psychiatric-institutions-patient-care-turns-into-abuse?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-26T19:07:44.000Z"
-  },
-  {
-   "title": "What will Trump’s latest tariffs mean for the world?",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/11/26/what-will-trumps-latest-tariffs-mean-for-the-world?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-26T18:53:15.000Z"
   },
   {
    "title": "French far-right leader Jordan Bardella faces fresh allegations of anti-Semitism",
@@ -252,40 +312,10 @@
    "date": "2026-11-26T18:51:47.000Z"
   },
   {
-   "title": "Reporters Without Borders demands suspension of controversial French TV channel CNews",
-   "url": "https://www.france24.com/en/france/20261126-reporters-without-borders-demands-suspension-controversial-french-tv-channel-cnews",
-   "source": "© Sameer al-Doumy, AFP",
-   "date": "2026-11-26T18:48:41.000Z"
-  },
-  {
-   "title": "Kushner explains the ‘good thing’ about Gaza’s destruction",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/kushner-explains-the-good-thing-about-gazas-destruction?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-26T18:30:36.000Z"
-  },
-  {
-   "title": "Trump calls GDP data released before midterms ‘fake’, demands investigation",
-   "url": "https://www.aljazeera.com/economy/2026/11/26/trump-calls-gdp-data-released-before-midterms-fake-demands-investigation?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-26T18:27:27.000Z"
-  },
-  {
-   "title": "Guinea-Bissau military leaders delay presidential election until 2028",
-   "url": "https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-26T18:07:18.000Z"
-  },
-  {
    "title": "Saudi pop music is thriving — but for the right reasons?",
    "url": "https://www.dw.com/en/saudi-pop-music-is-thriving-but-for-the-right-reasons/a-80036013?maca=en-rss-en-world-4025-rdf",
    "source": "DW",
    "date": "2026-11-26T17:37:00.000Z"
-  },
-  {
-   "title": "Will Spain's far right replace Europe's left-wing stalwart?",
-   "url": "https://www.france24.com/en/video/20261126-will-spain-s-far-right-replace-europe-s-left-wing-stalwart",
-   "source": "France 24",
-   "date": "2026-11-26T16:51:54.000Z"
   },
   {
    "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
@@ -294,46 +324,16 @@
    "date": "2026-11-26T16:21:19.000Z"
   },
   {
-   "title": "ACROSS AFRICA:  Tunisian Photographer's Family Focus",
-   "url": "https://www.france24.com/en/across-africa-tunisian-photographer-s-family-focus-1",
-   "source": "France 24",
-   "date": "2026-11-26T16:19:12.000Z"
-  },
-  {
    "title": "Protests in Iraqi Kurdistan at plans for government in Baghdad to take over oil, border crossings",
    "url": "https://www.dw.com/en/protests-in-iraqi-kurdistan-at-plans-for-government-in-baghdad-to-take-over-oil-border-crossings/a-80065994?maca=en-rss-en-world-4025-rdf",
    "source": "DW",
    "date": "2026-11-26T16:13:00.000Z"
   },
   {
-   "title": "In California, exceptional tides and nearly 9m-high waves batter the coast",
-   "url": "https://www.france24.com/en/video/20261126-in-california-exceptional-tides-and-nearly-9m-high-waves-batter-the-coast",
-   "source": "France 24",
-   "date": "2026-11-26T16:01:44.000Z"
-  },
-  {
-   "title": "Spanish economist de Cos to succeed Lagarde as head of ECB",
-   "url": "https://www.france24.com/en/europe/20261126-spanish-economist-de-cos-succeed-lagarde-head-ecb",
-   "source": "© Jose Luis Magana, AP",
-   "date": "2026-11-26T15:55:45.000Z"
-  },
-  {
    "title": "Is authoritarian Vietnam ready to phase out the death penalty?",
    "url": "https://www.dw.com/en/is-authoritarian-vietnam-ready-to-phase-out-the-death-penalty/a-80064271?maca=en-rss-en-world-4025-rdf",
    "source": "DW",
    "date": "2026-11-26T15:19:00.000Z"
-  },
-  {
-   "title": "Africa's opposition voices face growing pressure",
-   "url": "https://www.dw.com/en/africa-s-opposition-voices-face-growing-pressure/a-80063893?maca=en-rss-en-world-4025-rdf",
-   "source": "DW",
-   "date": "2026-11-26T15:04:00.000Z"
-  },
-  {
-   "title": "FIFA says a cyberattack against it targeted a 'limited set of personal and business information'",
-   "url": "https://www.dw.com/en/fifa-says-a-cyberattack-against-it-targeted-a-limited-set-of-personal-and-business-information/a-80062660?maca=en-rss-en-world-4025-rdf",
-   "source": "DW",
-   "date": "2026-11-26T14:45:00.000Z"
   }
  ],
  "quakes": [
@@ -359,10 +359,10 @@
    "tsunami": false
   },
   {
-   "mag": 5.2,
-   "place": "183 km N of Hicks Bay, New Zealand",
-   "time": "2026-11-26T01:48:44.213Z",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udjx",
+   "mag": 5.1,
+   "place": "107 km SSE of Auki, Solomon Islands",
+   "time": "2026-11-27T00:07:00.857Z",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udt9",
    "tsunami": false
   },
   {
@@ -374,9 +374,9 @@
   },
   {
    "mag": 5,
-   "place": "184 km N of Hicks Bay, New Zealand",
-   "time": "2026-11-26T02:09:17.972Z",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udjz",
+   "place": "89 km SSE of Sola, Vanuatu",
+   "time": "2026-11-27T02:13:21.018Z",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udtu",
    "tsunami": false
   },
   {
@@ -388,9 +388,9 @@
   },
   {
    "mag": 4.6,
-   "place": "97 km SW of Puerto Madero, Mexico",
-   "time": "2026-11-26T03:30:28.511Z",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udki",
+   "place": "155 km WNW of Tobelo, Indonesia",
+   "time": "2026-11-27T04:17:10.107Z",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udu6",
    "tsunami": false
   },
   {
@@ -463,11 +463,10 @@
    "topic": "tariffs",
    "article": "Tariff",
    "articleUrl": "https://en.wikipedia.org/wiki/Tariff",
-   "attNow": 314,
+   "attNow": 332,
    "attUsual": 257,
-   "attRatio": 1.2217898832684826,
+   "attRatio": 1.2918287937743191,
    "attSpark": [
-    278,
     262,
     214,
     189,
@@ -480,7 +479,8 @@
     184,
     184,
     253,
-    375
+    375,
+    289
    ],
    "newsNow": 0.457,
    "newsUsual": 0.752,
@@ -548,11 +548,10 @@
    "topic": "economic sanctions",
    "article": "Economic sanctions",
    "articleUrl": "https://en.wikipedia.org/wiki/Economic_sanctions",
-   "attNow": 102,
+   "attNow": 101,
    "attUsual": 103,
-   "attRatio": 0.9854368932038835,
+   "attRatio": 0.9757281553398058,
    "attSpark": [
-    103,
     94,
     85,
     82,
@@ -565,7 +564,8 @@
     77,
     96,
     89,
-    114
+    114,
+    87
    ],
    "newsNow": 0.013,
    "newsUsual": 0.025,
@@ -588,7 +588,7 @@
    ],
    "newsAsOf": "20261126",
    "newsFetchedAt": "2026-11-26T03:56:02.827Z",
-   "newsStale": false,
+   "newsStale": true,
    "headlines": [
     {
      "title": "Scathing report slams toothless sanctions watchdog",
@@ -633,11 +633,10 @@
    "topic": "central bank",
    "article": "Central bank",
    "articleUrl": "https://en.wikipedia.org/wiki/Central_bank",
-   "attNow": 294,
+   "attNow": 290,
    "attUsual": 319,
-   "attRatio": 0.9200626959247649,
+   "attRatio": 0.9090909090909091,
    "attSpark": [
-    319,
     262,
     393,
     310,
@@ -650,7 +649,8 @@
     251,
     286,
     294,
-    293
+    293,
+    287
    ],
    "newsNow": 0.889,
    "newsUsual": 0.836,
@@ -718,11 +718,10 @@
    "topic": "artificial intelligence",
    "article": "Artificial intelligence",
    "articleUrl": "https://en.wikipedia.org/wiki/Artificial_intelligence",
-   "attNow": 13539,
+   "attNow": 12389,
    "attUsual": 14924,
-   "attRatio": 0.9071629589922273,
+   "attRatio": 0.8301393728222997,
    "attSpark": [
-    14917,
     15260,
     11965,
     11399,
@@ -735,17 +734,13 @@
     11600,
     14591,
     14508,
-    12569
+    12569,
+    12209
    ],
-   "newsNow": 3.178,
-   "newsUsual": 3.472,
-   "newsRatio": 0.9155688505644238,
+   "newsNow": 3.708,
+   "newsUsual": 3.722,
+   "newsRatio": 0.9961670183135584,
    "newsSpark": [
-    2.984,
-    3.726,
-    3.908,
-    3.147,
-    3.252,
     3.932,
     3.639,
     3.079,
@@ -754,11 +749,16 @@
     4.423,
     4.106,
     3.905,
-    2.452
+    2.63,
+    3.811,
+    4.197,
+    3.486,
+    4.017,
+    3.398
    ],
-   "newsAsOf": "20261122",
-   "newsFetchedAt": "2026-11-22T21:29:11.432Z",
-   "newsStale": true,
+   "newsAsOf": "20261127",
+   "newsFetchedAt": "2026-11-27T04:46:15.931Z",
+   "newsStale": false,
    "headlines": [
     {
      "title": "UNU Macau AI Conference 2026 advances a human-centred approach to AI and education",
@@ -803,11 +803,10 @@
    "topic": "election",
    "article": "Election",
    "articleUrl": "https://en.wikipedia.org/wiki/Election",
-   "attNow": 281,
+   "attNow": 272,
    "attUsual": 450,
-   "attRatio": 0.6244444444444445,
+   "attRatio": 0.6033333333333334,
    "attSpark": [
-    422,
     364,
     269,
     323,
@@ -820,7 +819,8 @@
     313,
     302,
     287,
-    275
+    275,
+    268
    ],
    "newsNow": 4.656,
    "newsUsual": 6.649,
@@ -888,11 +888,10 @@
    "topic": "oil prices",
    "article": "Price of oil",
    "articleUrl": "https://en.wikipedia.org/wiki/Price_of_oil",
-   "attNow": 96,
-   "attUsual": 124,
-   "attRatio": 0.7701612903225806,
+   "attNow": 80,
+   "attUsual": 118,
+   "attRatio": 0.6779661016949152,
    "attSpark": [
-    140,
     130,
     83,
     108,
@@ -905,7 +904,8 @@
     89,
     99,
     89,
-    102
+    102,
+    58
    ],
    "newsNow": 0.518,
    "newsUsual": 0.401,
